@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T16:20:14.231Z",
+  "generatedAt": "2026-06-11T14:10:08.536Z",
   "countries": [
     {
       "countryCode": "BR",
       "datasetVersion": "2.0.0",
       "schemaVersion": 1,
-      "recordCount": 9643,
-      "generatedAt": "2026-06-10T16:20:14.231Z",
+      "recordCount": 9642,
+      "generatedAt": "2026-06-11T14:10:08.536Z",
       "minAppSchemaVersion": 1,
       "assetPath": "countries/br/br-v2.0.0.json.gz",
-      "sizeBytes": 365540,
-      "uncompressedBytes": 4521921,
-      "sha256": "9400558866293e0af4217fdbaf698883d927c670e5f4ed2ce5c39283b39abde1",
+      "sizeBytes": 365514,
+      "uncompressedBytes": 4522364,
+      "sha256": "687bf6edb079deefd67914ae87d2913d05e32ea1380096c067ab4e93745cf7cd",
       "bbox": [
         -33.502038,
-        -73.766666666,
+        -72.80999755859375,
         41.362,
         -7.76272222
       ],
@@ -24,7 +24,7 @@
           "regionCode": "A",
           "recordCount": 11,
           "sizeBytes": 938,
-          "sha256": "00525825ca3e53205a899fc2a9c198a7ad58e90130e7ab3721edfbc8cdb1c4ef",
+          "sha256": "15b4c1a404ddbc3499d0375157d284a9bf863009f1e1d969d266e888cc57a232",
           "bbox": [
             -25.506419,
             -62.361111,
@@ -37,7 +37,7 @@
               "recordCount": 11,
               "sizeBytes": 938,
               "uncompressedBytes": 5447,
-              "sha256": "00525825ca3e53205a899fc2a9c198a7ad58e90130e7ab3721edfbc8cdb1c4ef",
+              "sha256": "15b4c1a404ddbc3499d0375157d284a9bf863009f1e1d969d266e888cc57a232",
               "bbox": [
                 -25.506419,
                 -62.361111,
@@ -51,7 +51,7 @@
           "regionCode": "AC",
           "recordCount": 24,
           "sizeBytes": 1511,
-          "sha256": "4dc8c29aafbd4748710a2af74aa5eb16dbfe07a1fcd94733ba1dc1501fbb220d",
+          "sha256": "4b6b3a5a6a0c07b6c587013ea7f9211dce41c45f54ce5f6e4567a03be151e99b",
           "bbox": [
             -10.925212,
             -72.779721,
@@ -64,7 +64,7 @@
               "recordCount": 24,
               "sizeBytes": 1511,
               "uncompressedBytes": 12098,
-              "sha256": "4dc8c29aafbd4748710a2af74aa5eb16dbfe07a1fcd94733ba1dc1501fbb220d",
+              "sha256": "4b6b3a5a6a0c07b6c587013ea7f9211dce41c45f54ce5f6e4567a03be151e99b",
               "bbox": [
                 -10.925212,
                 -72.779721,
@@ -78,7 +78,7 @@
           "regionCode": "AL",
           "recordCount": 35,
           "sizeBytes": 1967,
-          "sha256": "a631e872fe3a1a8e0bde9d4c1a358126f66f306c52c4a0be48f68eae1e076670",
+          "sha256": "3c887c120e50b30a40d1e804a1b00c5fafe244ee34dfc0f8a03f2a57243c8d89",
           "bbox": [
             -10.2659,
             -37.986615,
@@ -91,7 +91,7 @@
               "recordCount": 35,
               "sizeBytes": 1967,
               "uncompressedBytes": 17066,
-              "sha256": "a631e872fe3a1a8e0bde9d4c1a358126f66f306c52c4a0be48f68eae1e076670",
+              "sha256": "3c887c120e50b30a40d1e804a1b00c5fafe244ee34dfc0f8a03f2a57243c8d89",
               "bbox": [
                 -10.2659,
                 -37.986615,
@@ -105,7 +105,7 @@
           "regionCode": "AM",
           "recordCount": 114,
           "sizeBytes": 4824,
-          "sha256": "7ae3f62343282659d869f61af3f560dbaeaf37d34222a95db5a02b8d3025a587",
+          "sha256": "ab93306f4e21c7103df26b805a086ad7a45fbd123e7808e035792eb4d7a576a5",
           "bbox": [
             -9.693914,
             -72.80999755859375,
@@ -118,7 +118,7 @@
               "recordCount": 114,
               "sizeBytes": 4824,
               "uncompressedBytes": 55751,
-              "sha256": "7ae3f62343282659d869f61af3f560dbaeaf37d34222a95db5a02b8d3025a587",
+              "sha256": "ab93306f4e21c7103df26b805a086ad7a45fbd123e7808e035792eb4d7a576a5",
               "bbox": [
                 -9.693914,
                 -72.80999755859375,
@@ -131,8 +131,8 @@
         {
           "regionCode": "AP",
           "recordCount": 26,
-          "sizeBytes": 1499,
-          "sha256": "20c589fd1887e996b2d31c646e20aefeb7ebc41b5f773bf9aa1aaa5c51690194",
+          "sizeBytes": 1500,
+          "sha256": "b987706db1ed8e1d9a4220bf57ba592f004c3543e91a16ff2c17df8dd8fca0e6",
           "bbox": [
             -0.831374,
             -52.950336,
@@ -143,9 +143,9 @@
             {
               "tilePath": "countries/br/ap/tile_000.json.gz",
               "recordCount": 26,
-              "sizeBytes": 1499,
+              "sizeBytes": 1500,
               "uncompressedBytes": 12695,
-              "sha256": "20c589fd1887e996b2d31c646e20aefeb7ebc41b5f773bf9aa1aaa5c51690194",
+              "sha256": "b987706db1ed8e1d9a4220bf57ba592f004c3543e91a16ff2c17df8dd8fca0e6",
               "bbox": [
                 -0.831374,
                 -52.950336,
@@ -159,7 +159,7 @@
           "regionCode": "BA",
           "recordCount": 477,
           "sizeBytes": 17352,
-          "sha256": "bdfd79a9e1d74acc27af7a2f6e95e623a39c5b04a3cc2e1d1e6a8fea37780c8c",
+          "sha256": "56fb68b6b706d49a9523e7b87da4c173b8d3c489375f588dd2049b106b09f41c",
           "bbox": [
             -20.040668,
             -50.67882,
@@ -172,7 +172,7 @@
               "recordCount": 477,
               "sizeBytes": 17352,
               "uncompressedBytes": 229520,
-              "sha256": "bdfd79a9e1d74acc27af7a2f6e95e623a39c5b04a3cc2e1d1e6a8fea37780c8c",
+              "sha256": "56fb68b6b706d49a9523e7b87da4c173b8d3c489375f588dd2049b106b09f41c",
               "bbox": [
                 -20.040668,
                 -50.67882,
@@ -185,8 +185,8 @@
         {
           "regionCode": "CE",
           "recordCount": 127,
-          "sizeBytes": 5128,
-          "sha256": "fb0efdd9f3e6824f97e179e3170ce79d84aafc0269321708df412e432aae0224",
+          "sizeBytes": 5127,
+          "sha256": "6f1972a2c870a04d32e99971a12fae218237c18a65cb4a8a914b5bbf5aa13f57",
           "bbox": [
             -7.392682,
             -41.023333,
@@ -197,9 +197,9 @@
             {
               "tilePath": "countries/br/ce/tile_000.json.gz",
               "recordCount": 127,
-              "sizeBytes": 5128,
+              "sizeBytes": 5127,
               "uncompressedBytes": 60625,
-              "sha256": "fb0efdd9f3e6824f97e179e3170ce79d84aafc0269321708df412e432aae0224",
+              "sha256": "6f1972a2c870a04d32e99971a12fae218237c18a65cb4a8a914b5bbf5aa13f57",
               "bbox": [
                 -7.392682,
                 -41.023333,
@@ -213,7 +213,7 @@
           "regionCode": "DF",
           "recordCount": 37,
           "sizeBytes": 1756,
-          "sha256": "3cb030452119dcc5f15857b532a460b5d01a308b2d54178400a6a6ba05302512",
+          "sha256": "7389fc657a22cb45bcf2c86518f077b5267d18c4e5ef5b25e9efa5ba3436a976",
           "bbox": [
             -16.014444,
             -48.204397,
@@ -226,7 +226,7 @@
               "recordCount": 37,
               "sizeBytes": 1756,
               "uncompressedBytes": 17811,
-              "sha256": "3cb030452119dcc5f15857b532a460b5d01a308b2d54178400a6a6ba05302512",
+              "sha256": "7389fc657a22cb45bcf2c86518f077b5267d18c4e5ef5b25e9efa5ba3436a976",
               "bbox": [
                 -16.014444,
                 -48.204397,
@@ -240,7 +240,7 @@
           "regionCode": "ES",
           "recordCount": 43,
           "sizeBytes": 2385,
-          "sha256": "3e44028d64560c4d104ef59ccf5369a3244b479d57b11d6610a3d592fbdf04db",
+          "sha256": "79ffe571b388cc8f49658c7761b32bdbb0c1be29376d9e46b0093140078c9150",
           "bbox": [
             -20.963669,
             -41.203797,
@@ -253,7 +253,7 @@
               "recordCount": 43,
               "sizeBytes": 2385,
               "uncompressedBytes": 21231,
-              "sha256": "3e44028d64560c4d104ef59ccf5369a3244b479d57b11d6610a3d592fbdf04db",
+              "sha256": "79ffe571b388cc8f49658c7761b32bdbb0c1be29376d9e46b0093140078c9150",
               "bbox": [
                 -20.963669,
                 -41.203797,
@@ -267,7 +267,7 @@
           "regionCode": "GO",
           "recordCount": 432,
           "sizeBytes": 15934,
-          "sha256": "88d6944c56f599bc96ed11df954ea016856639c8b0c83042eb845ae03ee90af0",
+          "sha256": "8eaed6df09f200e13ec1e52b96e44fac767d17f1148f4cc9520e92cce5487572",
           "bbox": [
             -19.097706,
             -53.194,
@@ -280,7 +280,7 @@
               "recordCount": 432,
               "sizeBytes": 15934,
               "uncompressedBytes": 207948,
-              "sha256": "88d6944c56f599bc96ed11df954ea016856639c8b0c83042eb845ae03ee90af0",
+              "sha256": "8eaed6df09f200e13ec1e52b96e44fac767d17f1148f4cc9520e92cce5487572",
               "bbox": [
                 -19.097706,
                 -53.194,
@@ -294,7 +294,7 @@
           "regionCode": "MA",
           "recordCount": 205,
           "sizeBytes": 8172,
-          "sha256": "e8f4d521c70774793f62aa24420f124b7692e611e55926bf7c6b612b9d8d33f6",
+          "sha256": "cb54b1b813631ad7905d9e365eab8352b6c76c85f3d2ee91795edc19a61beafb",
           "bbox": [
             -9.736146,
             -57.33,
@@ -307,7 +307,7 @@
               "recordCount": 205,
               "sizeBytes": 8172,
               "uncompressedBytes": 99004,
-              "sha256": "e8f4d521c70774793f62aa24420f124b7692e611e55926bf7c6b612b9d8d33f6",
+              "sha256": "cb54b1b813631ad7905d9e365eab8352b6c76c85f3d2ee91795edc19a61beafb",
               "bbox": [
                 -9.736146,
                 -57.33,
@@ -321,7 +321,7 @@
           "regionCode": "MG",
           "recordCount": 585,
           "sizeBytes": 22820,
-          "sha256": "b1cca2dc2ddaf2297d5637500c6b81db2e9c45879d05b3fa7947b4d3ee6eaa31",
+          "sha256": "23e502e169ac9ecbdc0f11213fc378329241cbac60791ff8cc986506a6f6529c",
           "bbox": [
             -22.865024,
             -56.473056,
@@ -334,7 +334,7 @@
               "recordCount": 585,
               "sizeBytes": 22820,
               "uncompressedBytes": 282451,
-              "sha256": "b1cca2dc2ddaf2297d5637500c6b81db2e9c45879d05b3fa7947b4d3ee6eaa31",
+              "sha256": "23e502e169ac9ecbdc0f11213fc378329241cbac60791ff8cc986506a6f6529c",
               "bbox": [
                 -22.865024,
                 -56.473056,
@@ -348,7 +348,7 @@
           "regionCode": "MS",
           "recordCount": 871,
           "sizeBytes": 29494,
-          "sha256": "ace665fea8c99e42564148560e82ffb6ccec8c4f7b9e17bd833ccadba1259919",
+          "sha256": "77b1f084ec9c358a189c1a7a1a0558d5f64fe895cdb445fb58fb2769b48be982",
           "bbox": [
             -23.976944,
             -64.468139,
@@ -361,7 +361,7 @@
               "recordCount": 871,
               "sizeBytes": 29494,
               "uncompressedBytes": 418799,
-              "sha256": "ace665fea8c99e42564148560e82ffb6ccec8c4f7b9e17bd833ccadba1259919",
+              "sha256": "77b1f084ec9c358a189c1a7a1a0558d5f64fe895cdb445fb58fb2769b48be982",
               "bbox": [
                 -23.976944,
                 -64.468139,
@@ -375,7 +375,7 @@
           "regionCode": "MT",
           "recordCount": 1267,
           "sizeBytes": 45318,
-          "sha256": "6ef6a401b49c9d8d8d63d06b83c22b6eb8041b88ff99fd82082163e9c7474862",
+          "sha256": "6c550ae3a7ca65bc3f0438ffd3dcc0caf88ae11161bd950deccfb7c91eb9a1ce",
           "bbox": [
             -18.038024,
             -62.709045,
@@ -388,7 +388,7 @@
               "recordCount": 1267,
               "sizeBytes": 45318,
               "uncompressedBytes": 611806,
-              "sha256": "6ef6a401b49c9d8d8d63d06b83c22b6eb8041b88ff99fd82082163e9c7474862",
+              "sha256": "6c550ae3a7ca65bc3f0438ffd3dcc0caf88ae11161bd950deccfb7c91eb9a1ce",
               "bbox": [
                 -18.038024,
                 -62.709045,
@@ -402,7 +402,7 @@
           "regionCode": "PA",
           "recordCount": 450,
           "sizeBytes": 16285,
-          "sha256": "51875d1c99134a699c0d92525744d3252012c8f51f187a2c9e1331c0c9b47176",
+          "sha256": "7f42f5becbe1eea9a4d211024da2a7543fd845b7d2512536a5708bf1f59189f5",
           "bbox": [
             -9.740699,
             -57.969545,
@@ -415,7 +415,7 @@
               "recordCount": 450,
               "sizeBytes": 16285,
               "uncompressedBytes": 215873,
-              "sha256": "51875d1c99134a699c0d92525744d3252012c8f51f187a2c9e1331c0c9b47176",
+              "sha256": "7f42f5becbe1eea9a4d211024da2a7543fd845b7d2512536a5708bf1f59189f5",
               "bbox": [
                 -9.740699,
                 -57.969545,
@@ -429,7 +429,7 @@
           "regionCode": "PB",
           "recordCount": 30,
           "sizeBytes": 1870,
-          "sha256": "cfb4c35d64dbbcb39f1bf960ca301c49e38dd2ad109b9068295c56300e19f999",
+          "sha256": "c10cb34210aec8145b2917a5eee90cd62f31aaa2b1fc664e7773c68291b0ba48",
           "bbox": [
             -25.742186,
             -53.050457,
@@ -442,7 +442,7 @@
               "recordCount": 30,
               "sizeBytes": 1870,
               "uncompressedBytes": 15113,
-              "sha256": "cfb4c35d64dbbcb39f1bf960ca301c49e38dd2ad109b9068295c56300e19f999",
+              "sha256": "c10cb34210aec8145b2917a5eee90cd62f31aaa2b1fc664e7773c68291b0ba48",
               "bbox": [
                 -25.742186,
                 -53.050457,
@@ -456,7 +456,7 @@
           "regionCode": "PE",
           "recordCount": 95,
           "sizeBytes": 4445,
-          "sha256": "7517bd87269021cb8824a17c70c06b566db5497a5af71d78b7eb45af3961ba11",
+          "sha256": "5e627b1a1a91561fb26c3170d6d2d19e3af0b93489d55566592a6a1d3d719f78",
           "bbox": [
             -9.362422,
             -41.00047,
@@ -469,7 +469,7 @@
               "recordCount": 95,
               "sizeBytes": 4445,
               "uncompressedBytes": 46240,
-              "sha256": "7517bd87269021cb8824a17c70c06b566db5497a5af71d78b7eb45af3961ba11",
+              "sha256": "5e627b1a1a91561fb26c3170d6d2d19e3af0b93489d55566592a6a1d3d719f78",
               "bbox": [
                 -9.362422,
                 -41.00047,
@@ -483,7 +483,7 @@
           "regionCode": "PI",
           "recordCount": 123,
           "sizeBytes": 5125,
-          "sha256": "eb0228d63739376d58fada04110136b07ed71d3e497463f9da3fae2f93cd2ea2",
+          "sha256": "3ab6e16e89135becb486e47dad0d49d19898319493ce5738526e8639f0a02695",
           "bbox": [
             -10.621778,
             -45.968574,
@@ -496,7 +496,7 @@
               "recordCount": 123,
               "sizeBytes": 5125,
               "uncompressedBytes": 59647,
-              "sha256": "eb0228d63739376d58fada04110136b07ed71d3e497463f9da3fae2f93cd2ea2",
+              "sha256": "3ab6e16e89135becb486e47dad0d49d19898319493ce5738526e8639f0a02695",
               "bbox": [
                 -10.621778,
                 -45.968574,
@@ -510,7 +510,7 @@
           "regionCode": "PR",
           "recordCount": 219,
           "sizeBytes": 9279,
-          "sha256": "87872f8e539dfde47d243ee78bfa1a74c62ea1c4b373bf82e134138c0342999e",
+          "sha256": "be92b0eaa3ec2d2dd66c97033595c01489c35cce7b9be238e0e2d6c48dd30b68",
           "bbox": [
             -26.472000122070312,
             -54.598468,
@@ -523,7 +523,7 @@
               "recordCount": 219,
               "sizeBytes": 9279,
               "uncompressedBytes": 107002,
-              "sha256": "87872f8e539dfde47d243ee78bfa1a74c62ea1c4b373bf82e134138c0342999e",
+              "sha256": "be92b0eaa3ec2d2dd66c97033595c01489c35cce7b9be238e0e2d6c48dd30b68",
               "bbox": [
                 -26.472000122070312,
                 -54.598468,
@@ -537,7 +537,7 @@
           "regionCode": "RJ",
           "recordCount": 289,
           "sizeBytes": 10828,
-          "sha256": "307efae63bf07792d633d2e6295c21745ca94150fb07d26832bacb2d24474fd4",
+          "sha256": "51a602bcbe7f8f26d9d5be107ae25b880a107e6f7f13e9e82a543220b4819263",
           "bbox": [
             -23.959302,
             -46.329788,
@@ -550,7 +550,7 @@
               "recordCount": 289,
               "sizeBytes": 10828,
               "uncompressedBytes": 139064,
-              "sha256": "307efae63bf07792d633d2e6295c21745ca94150fb07d26832bacb2d24474fd4",
+              "sha256": "51a602bcbe7f8f26d9d5be107ae25b880a107e6f7f13e9e82a543220b4819263",
               "bbox": [
                 -23.959302,
                 -46.329788,
@@ -564,7 +564,7 @@
           "regionCode": "RN",
           "recordCount": 36,
           "sizeBytes": 1989,
-          "sha256": "d9a8a5915ca2ecdee7c0471a23b7973b614a4010c340803f36e3694907725178",
+          "sha256": "ac22d4570f54803a4b7409dfd3fed75baf99c59408c578d49b90b69677c9b434",
           "bbox": [
             -6.704161,
             -38.196588,
@@ -577,7 +577,7 @@
               "recordCount": 36,
               "sizeBytes": 1989,
               "uncompressedBytes": 17456,
-              "sha256": "d9a8a5915ca2ecdee7c0471a23b7973b614a4010c340803f36e3694907725178",
+              "sha256": "ac22d4570f54803a4b7409dfd3fed75baf99c59408c578d49b90b69677c9b434",
               "bbox": [
                 -6.704161,
                 -38.196588,
@@ -591,7 +591,7 @@
           "regionCode": "RO",
           "recordCount": 122,
           "sizeBytes": 4916,
-          "sha256": "bfe2e7653f5ae027259bd40e479c663ade69cd9170d43f066ffe44d97b0081ae",
+          "sha256": "2b601a91b973437787ed7797201ea606dfb77c25da681183dc77faad60f80b00",
           "bbox": [
             -13.576111,
             -66.331287,
@@ -604,7 +604,7 @@
               "recordCount": 122,
               "sizeBytes": 4916,
               "uncompressedBytes": 59183,
-              "sha256": "bfe2e7653f5ae027259bd40e479c663ade69cd9170d43f066ffe44d97b0081ae",
+              "sha256": "2b601a91b973437787ed7797201ea606dfb77c25da681183dc77faad60f80b00",
               "bbox": [
                 -13.576111,
                 -66.331287,
@@ -618,7 +618,7 @@
           "regionCode": "RR",
           "recordCount": 163,
           "sizeBytes": 5905,
-          "sha256": "c728ff6cc412f5df1a843d41b0d16e65f9d1a8a05b5bcebde95ecf1a376f2174",
+          "sha256": "0dfed7a4eef5e341073727ddf387ed032901886126e47300b1f1f9d56e5ce474",
           "bbox": [
             -3.233956,
             -64.493635,
@@ -631,7 +631,7 @@
               "recordCount": 163,
               "sizeBytes": 5905,
               "uncompressedBytes": 77232,
-              "sha256": "c728ff6cc412f5df1a843d41b0d16e65f9d1a8a05b5bcebde95ecf1a376f2174",
+              "sha256": "0dfed7a4eef5e341073727ddf387ed032901886126e47300b1f1f9d56e5ce474",
               "bbox": [
                 -3.233956,
                 -64.493635,
@@ -645,7 +645,7 @@
           "regionCode": "RS",
           "recordCount": 221,
           "sizeBytes": 9083,
-          "sha256": "207cc04dfe7770be94ac3384dd7c43c8b500979fd86a470808681f06fe025bc4",
+          "sha256": "2adc48835a6c09103ead1c13024bef0c6f9102f3a111bb18cad41fe454b35f82",
           "bbox": [
             -33.502038,
             -57.271111,
@@ -658,7 +658,7 @@
               "recordCount": 221,
               "sizeBytes": 9083,
               "uncompressedBytes": 107273,
-              "sha256": "207cc04dfe7770be94ac3384dd7c43c8b500979fd86a470808681f06fe025bc4",
+              "sha256": "2adc48835a6c09103ead1c13024bef0c6f9102f3a111bb18cad41fe454b35f82",
               "bbox": [
                 -33.502038,
                 -57.271111,
@@ -672,7 +672,7 @@
           "regionCode": "SC",
           "recordCount": 183,
           "sizeBytes": 7337,
-          "sha256": "edac0740435f200c775acfe2ea44e26f67a288b5e8f49f5e4c1db8db5d9c1854",
+          "sha256": "52d72100784e409f508abb165f90398ddd2c4a6474360851a74ee59784602152",
           "bbox": [
             -28.974435,
             -53.777567,
@@ -685,7 +685,7 @@
               "recordCount": 183,
               "sizeBytes": 7337,
               "uncompressedBytes": 87983,
-              "sha256": "edac0740435f200c775acfe2ea44e26f67a288b5e8f49f5e4c1db8db5d9c1854",
+              "sha256": "52d72100784e409f508abb165f90398ddd2c4a6474360851a74ee59784602152",
               "bbox": [
                 -28.974435,
                 -53.777567,
@@ -698,8 +698,8 @@
         {
           "regionCode": "SE",
           "recordCount": 10,
-          "sizeBytes": 898,
-          "sha256": "1502d685a28b3f4906efd6f0e1a68510fce88b174b144d9116eb5787b1433e3c",
+          "sizeBytes": 899,
+          "sha256": "3d0291e954a1758893f4590326bb88d5ebd2c0d09344d1614cf1288a16507535",
           "bbox": [
             -11.421918,
             -37.632292,
@@ -710,9 +710,9 @@
             {
               "tilePath": "countries/br/se/tile_000.json.gz",
               "recordCount": 10,
-              "sizeBytes": 898,
+              "sizeBytes": 899,
               "uncompressedBytes": 5043,
-              "sha256": "1502d685a28b3f4906efd6f0e1a68510fce88b174b144d9116eb5787b1433e3c",
+              "sha256": "3d0291e954a1758893f4590326bb88d5ebd2c0d09344d1614cf1288a16507535",
               "bbox": [
                 -11.421918,
                 -37.632292,
@@ -726,7 +726,7 @@
           "regionCode": "SP",
           "recordCount": 1212,
           "sizeBytes": 45226,
-          "sha256": "5fcdda0eebb58f9aa6587e71c4ed5eab3dcf6d0608500e5b8e6adaa3f2ed4eba",
+          "sha256": "cb3e03e2be5ef603e93a99d45f731bcaa69b6daa5a29487af9d210d622e05452",
           "bbox": [
             -25.266899,
             -52.972172,
@@ -739,7 +739,7 @@
               "recordCount": 1212,
               "sizeBytes": 45226,
               "uncompressedBytes": 581802,
-              "sha256": "5fcdda0eebb58f9aa6587e71c4ed5eab3dcf6d0608500e5b8e6adaa3f2ed4eba",
+              "sha256": "cb3e03e2be5ef603e93a99d45f731bcaa69b6daa5a29487af9d210d622e05452",
               "bbox": [
                 -25.266899,
                 -52.972172,
@@ -753,7 +753,7 @@
           "regionCode": "TO",
           "recordCount": 204,
           "sizeBytes": 7422,
-          "sha256": "66bba583c18d4316b729929537fce081b2684c9068a7932d771c61f55ca0d713",
+          "sha256": "2c32840e8fe972de148cb291fcad82c2d2a69cdbd13908c04ba9efcc6150cae0",
           "bbox": [
             -13.102172,
             -50.66619873046875,
@@ -766,7 +766,7 @@
               "recordCount": 204,
               "sizeBytes": 7422,
               "uncompressedBytes": 97578,
-              "sha256": "66bba583c18d4316b729929537fce081b2684c9068a7932d771c61f55ca0d713",
+              "sha256": "2c32840e8fe972de148cb291fcad82c2d2a69cdbd13908c04ba9efcc6150cae0",
               "bbox": [
                 -13.102172,
                 -50.66619873046875,
@@ -778,25 +778,25 @@
         },
         {
           "regionCode": "UNKNOWN",
-          "recordCount": 2032,
-          "sizeBytes": 57891,
-          "sha256": "99746cf300d6b56d8aa2e21efcd2fa6007cf81d27ec1d8a5fb31cab95bc1ed82",
+          "recordCount": 2031,
+          "sizeBytes": 57864,
+          "sha256": "29bf2fbc9a214cefa29488333663b0bb839d44f4806a5dd17b19bc7fd478618f",
           "bbox": [
-            -33.116666666,
-            -73.766666666,
+            -33.133333333,
+            -69.383333333,
             41.362,
             -7.76272222
           ],
           "tiles": [
             {
               "tilePath": "countries/br/unknown/tile_000.json.gz",
-              "recordCount": 2032,
-              "sizeBytes": 57891,
-              "uncompressedBytes": 857876,
-              "sha256": "99746cf300d6b56d8aa2e21efcd2fa6007cf81d27ec1d8a5fb31cab95bc1ed82",
+              "recordCount": 2031,
+              "sizeBytes": 57864,
+              "uncompressedBytes": 858319,
+              "sha256": "29bf2fbc9a214cefa29488333663b0bb839d44f4806a5dd17b19bc7fd478618f",
               "bbox": [
-                -33.116666666,
-                -73.766666666,
+                -33.133333333,
+                -69.383333333,
                 41.362,
                 -7.76272222
               ]
