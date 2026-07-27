@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T06:55:46.752Z",
+  "generatedAt": "2026-07-27T07:40:51.368Z",
   "countries": [
     {
       "countryCode": "BR",
       "datasetVersion": "2.0.0",
       "schemaVersion": 1,
-      "recordCount": 2033,
-      "generatedAt": "2026-07-20T06:55:46.752Z",
+      "recordCount": 2034,
+      "generatedAt": "2026-07-27T07:40:51.368Z",
       "minAppSchemaVersion": 1,
       "assetPath": "countries/br/br-v2.0.0.json.gz",
-      "sizeBytes": 58122,
-      "uncompressedBytes": 859492,
-      "sha256": "3f0a57d103e09c1085bd15b867edaa2ab8399c45554fcb57df9057a2ce0e8162",
+      "sizeBytes": 58894,
+      "uncompressedBytes": 860372,
+      "sha256": "68ce367c969dacbbbbf6c4cd069becdb32eb86ac52c64e242e4dd5466b65b430",
       "bbox": [
         -33.116666666,
-        -70,
+        -69.6,
         41.362,
         -7.76272222
       ],
       "regions": [
         {
           "regionCode": "UNKNOWN",
-          "recordCount": 2033,
-          "sizeBytes": 58122,
-          "sha256": "3f0a57d103e09c1085bd15b867edaa2ab8399c45554fcb57df9057a2ce0e8162",
+          "recordCount": 2034,
+          "sizeBytes": 58894,
+          "sha256": "68ce367c969dacbbbbf6c4cd069becdb32eb86ac52c64e242e4dd5466b65b430",
           "bbox": [
             -33.116666666,
-            -70,
+            -69.6,
             41.362,
             -7.76272222
           ],
           "tiles": [
             {
               "tilePath": "countries/br/unknown/tile_000.json.gz",
-              "recordCount": 2033,
-              "sizeBytes": 58122,
-              "uncompressedBytes": 859492,
-              "sha256": "3f0a57d103e09c1085bd15b867edaa2ab8399c45554fcb57df9057a2ce0e8162",
+              "recordCount": 2034,
+              "sizeBytes": 58894,
+              "uncompressedBytes": 860372,
+              "sha256": "68ce367c969dacbbbbf6c4cd069becdb32eb86ac52c64e242e4dd5466b65b430",
               "bbox": [
                 -33.116666666,
-                -70,
+                -69.6,
                 41.362,
                 -7.76272222
               ]
