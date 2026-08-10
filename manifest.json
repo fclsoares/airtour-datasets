@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T07:36:20.925Z",
+  "generatedAt": "2026-08-10T05:39:22.023Z",
   "countries": [
     {
       "countryCode": "BR",
       "datasetVersion": "2.0.0",
       "schemaVersion": 1,
-      "recordCount": 1647,
-      "generatedAt": "2026-08-03T07:36:20.925Z",
+      "recordCount": 2037,
+      "generatedAt": "2026-08-10T05:39:22.023Z",
       "minAppSchemaVersion": 1,
       "assetPath": "countries/br/br-v2.0.0.json.gz",
-      "sizeBytes": 46659,
-      "uncompressedBytes": 697652,
-      "sha256": "0674b9725de828ecff77ba25123f8fc077e5d319f94c4bfb34a784b1df6c481f",
+      "sizeBytes": 58820,
+      "uncompressedBytes": 861757,
+      "sha256": "80627613a8625dce38ee62f00a90bbbf7037feb2d9dc84b22668ba0f096856bf",
       "bbox": [
         -33.116666666,
-        -69.483333333,
+        -72.827777777,
         41.362,
         -7.76272222
       ],
       "regions": [
         {
           "regionCode": "UNKNOWN",
-          "recordCount": 1647,
-          "sizeBytes": 46659,
-          "sha256": "0674b9725de828ecff77ba25123f8fc077e5d319f94c4bfb34a784b1df6c481f",
+          "recordCount": 2037,
+          "sizeBytes": 58820,
+          "sha256": "80627613a8625dce38ee62f00a90bbbf7037feb2d9dc84b22668ba0f096856bf",
           "bbox": [
             -33.116666666,
-            -69.483333333,
+            -72.827777777,
             41.362,
             -7.76272222
           ],
           "tiles": [
             {
               "tilePath": "countries/br/unknown/tile_000.json.gz",
-              "recordCount": 1647,
-              "sizeBytes": 46659,
-              "uncompressedBytes": 697652,
-              "sha256": "0674b9725de828ecff77ba25123f8fc077e5d319f94c4bfb34a784b1df6c481f",
+              "recordCount": 2037,
+              "sizeBytes": 58820,
+              "uncompressedBytes": 861757,
+              "sha256": "80627613a8625dce38ee62f00a90bbbf7037feb2d9dc84b22668ba0f096856bf",
               "bbox": [
                 -33.116666666,
-                -69.483333333,
+                -72.827777777,
                 41.362,
                 -7.76272222
               ]
