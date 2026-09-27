@@ -1,0 +1,49 @@
+{
+  "datasetLicense": {
+    "id": "ODbL-1.0",
+    "url": "https://opendatacommons.org/licenses/odbl/1-0/"
+  },
+  "osm": {
+    "source": "https://download.geofabrik.de/south-america/brazil-latest.osm.pbf",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright",
+    "sha256": "af4a85ff77347d8f9b87a80a80d357685ae41dfe169a78e394b5f67ca82a5fbd",
+    "verifiedAt": "2026-09-27T13:50:34.535Z"
+  },
+  "wikidata": {
+    "license": "CC0-1.0",
+    "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing"
+  },
+  "ibge": {
+    "source": "ibge",
+    "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?formato=application/vnd.geo%2Bjson&qualidade=maxima&intrarregiao=UF",
+    "documentationUrl": "https://servicodados.ibge.gov.br/api/docs/malhas?versao=3",
+    "ufMetadataUrl": "https://servicodados.ibge.gov.br/api/v1/localidades/estados",
+    "license": {
+      "name": "IBGE public data — free reuse with attribution (Decreto 8.777/2016)",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/2016/decreto-8777-11-maio-2016-783082-publicacaooriginal-150347-pe.html",
+      "providerPolicyUrl": "https://www.ibge.gov.br/acesso-informacao/dados-abertos.html",
+      "legalBasis": "Decreto 8.777/2016, arts. 2 III, 3 IV and 4; not a Creative Commons license designation.",
+      "statement": "Os dados disponibilizados pelo Poder Executivo federal, bem como qualquer informação de transparência ativa, são de livre utilização pelo Governo federal e pela sociedade.",
+      "attribution": "Instituto Brasileiro de Geografia e Estatística (IBGE), API de Malhas Geográficas, Unidades da Federação."
+    },
+    "retrievedAt": "2026-09-27T13:42:45.018Z",
+    "sha256": "4435b2e0e62de6d68f5c5387e01efc31655242948ae9434b78a3b5b05582e497",
+    "quality": "maxima",
+    "meshReferenceYear": null,
+    "limitation": "Simplified administrative mesh, not cadastral, navigational, airspace or flight-authorization data."
+  },
+  "curation": {
+    "reviewedRecords": 10,
+    "retainedPois": 8,
+    "evidence": "brazil.curated.json",
+    "reviewIsFlightAuthorization": false
+  },
+  "usage": {
+    "purpose": "scenic-points-of-interest",
+    "screening": "osm-only",
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}

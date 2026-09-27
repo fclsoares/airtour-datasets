@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "purpose": "editorial-data-review-not-flight-authorization",
+  "reviewedOn": "2026-09-27",
+  "notes": [
+    "Structured Wikidata data only (CC0); no copied descriptions or photographs.",
+    "Coordinates identify scenic places, not takeoff/landing sites. Airspace and local permission review are separate.",
+    "Source precision varies: Pipa is approximate; Ponta Negra has malformed precision metadata. No coordinates were invented or shifted.",
+    "UF assignment is checked against the official IBGE mesh during every build."
+  ],
+  "records": [
+    {
+      "sourceId": "wikidata:Q10352650", "wikidataId": "Q10352650", "name": "Praia da Ponta Negra (Manaus)",
+      "countryCode": "BR", "latitude": -3.063849, "longitude": -60.101705, "category": "beach", "regionCode": "AM", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q10352650&oldid=1512942971",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q2936442", "wikidataId": "Q2936442", "name": "Praia de Canoa Quebrada",
+      "countryCode": "BR", "latitude": -4.528333, "longitude": -37.692778, "category": "beach", "regionCode": "CE", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q2936442&oldid=2548709779",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q3178225", "wikidataId": "Q3178225", "name": "Praia de Pipa",
+      "countryCode": "BR", "latitude": -6.22758, "longitude": -35.0476, "category": "beach", "regionCode": "RN", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q3178225&oldid=2257015917",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q3390855", "wikidataId": "Q3390855", "name": "Praia do Gunga",
+      "countryCode": "BR", "latitude": -9.85972222, "longitude": -35.90472222, "category": "beach", "regionCode": "AL", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q3390855&oldid=1780726905",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q41496224", "wikidataId": "Q41496224", "name": "Lagoa Misteriosa",
+      "countryCode": "BR", "latitude": -21.127131, "longitude": -56.482603, "category": "touristAttraction", "regionCode": "MS", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q41496224&oldid=2065228661",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q8536456", "wikidataId": "Q8536456", "name": "Pedra do Baú",
+      "countryCode": "BR", "latitude": -22.68888889, "longitude": -45.66138889, "category": "mountain", "regionCode": "SP", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q8536456&oldid=2131415708",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q1670751", "wikidataId": "Q1670751", "name": "Maresias",
+      "countryCode": "BR", "latitude": -23.7873, "longitude": -45.5616, "category": "beach", "regionCode": "SP", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q1670751&oldid=2435948854",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q55788863", "wikidataId": "Q55788863", "name": "Igreja Matriz de Santana (Itanhaém)",
+      "countryCode": "BR", "latitude": -24.183217, "longitude": -46.788534, "category": "historicChurch", "regionCode": "SP", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q55788863&oldid=2247347913",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q2457088", "wikidataId": "Q2457088", "name": "Praia da Joaquina",
+      "countryCode": "BR", "latitude": -27.6405, "longitude": -48.45881, "category": "beach", "regionCode": "SC", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q2457088&oldid=2268034055",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "sourceId": "wikidata:Q10352611", "wikidataId": "Q10352611", "name": "Praia da Guarita",
+      "countryCode": "BR", "latitude": -29.35143056, "longitude": -49.73107222, "category": "beach", "regionCode": "RS", "source": "wikidata",
+      "sourceUrl": "https://www.wikidata.org/w/index.php?title=Q10352611&oldid=2371498532",
+      "reviewedAt": "2026-09-27T03:14:30Z", "license": "CC0-1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

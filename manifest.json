@@ -1,48 +1,750 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T11:52:32.377Z",
+  "generatedAt": "2026-09-27T13:50:28.844Z",
   "countries": [
     {
       "countryCode": "BR",
-      "datasetVersion": "2.0.0",
+      "datasetVersion": "2.0.1",
       "schemaVersion": 1,
-      "recordCount": 2030,
-      "generatedAt": "2026-09-27T11:52:32.377Z",
+      "recordCount": 26252,
+      "generatedAt": "2026-09-27T13:50:28.844Z",
       "minAppSchemaVersion": 1,
-      "assetPath": "countries/br/br-v2.0.0.json.gz",
-      "sizeBytes": 59025,
-      "uncompressedBytes": 860206,
-      "sha256": "74029a38f49322ded62e0b1c2953bf33416c8de02bd9ebde15f1d198bb4b7736",
+      "assetPath": "countries/br/br-v2.0.1.json.gz",
+      "sizeBytes": 1089672,
+      "uncompressedBytes": 15320850,
+      "sha256": "0cea3084f05fcf6f5f3fb7706eaa7718fb0177840f423a457df4b0e9be838c5a",
       "bbox": [
-        -33.116666666,
-        -69.982222222,
-        41.362,
-        -7.76272222
+        -33.743283000000005,
+        -73.76338750000001,
+        5.2695808,
+        -29.30493
       ],
       "regions": [
         {
-          "regionCode": "UNKNOWN",
-          "recordCount": 2030,
-          "sizeBytes": 59025,
-          "sha256": "74029a38f49322ded62e0b1c2953bf33416c8de02bd9ebde15f1d198bb4b7736",
+          "regionCode": "AC",
+          "recordCount": 74,
+          "sizeBytes": 4144,
+          "sha256": "5ffa0f02fc8ec2bb1aa009a9756f59146719b62eb7bae8a3f5ca686d7cb4cf0e",
           "bbox": [
-            -33.116666666,
-            -69.982222222,
-            41.362,
-            -7.76272222
+            -10.91305775,
+            -73.76338750000001,
+            -7.3455658,
+            -67.6049246
           ],
           "tiles": [
             {
-              "tilePath": "countries/br/unknown/tile_000.json.gz",
-              "recordCount": 2030,
-              "sizeBytes": 59025,
-              "uncompressedBytes": 860206,
-              "sha256": "74029a38f49322ded62e0b1c2953bf33416c8de02bd9ebde15f1d198bb4b7736",
+              "tilePath": "countries/br/ac/tile_000.json.gz",
+              "recordCount": 74,
+              "sizeBytes": 4144,
+              "uncompressedBytes": 48126,
+              "sha256": "5ffa0f02fc8ec2bb1aa009a9756f59146719b62eb7bae8a3f5ca686d7cb4cf0e",
               "bbox": [
-                -33.116666666,
-                -69.982222222,
-                41.362,
-                -7.76272222
+                -10.91305775,
+                -73.76338750000001,
+                -7.3455658,
+                -67.6049246
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "AL",
+          "recordCount": 220,
+          "sizeBytes": 8705,
+          "sha256": "280172da30678a98d45480d2447242decc8270a6e78b4d52e88263db586a5020",
+          "bbox": [
+            -10.44917525,
+            -38.1920562,
+            -8.9240419,
+            -35.1596555
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/al/tile_000.json.gz",
+              "recordCount": 220,
+              "sizeBytes": 8705,
+              "uncompressedBytes": 117324,
+              "sha256": "280172da30678a98d45480d2447242decc8270a6e78b4d52e88263db586a5020",
+              "bbox": [
+                -10.44917525,
+                -38.1920562,
+                -8.9240419,
+                -35.1596555
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "AM",
+          "recordCount": 808,
+          "sizeBytes": 30216,
+          "sha256": "d9a8ed1d3b88669ff76d6887b7d03f712953be76493634d7225f572f37709109",
+          "bbox": [
+            -9.18174585,
+            -72.18425525,
+            1.9022234,
+            -56.369597850000005
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/am/tile_000.json.gz",
+              "recordCount": 808,
+              "sizeBytes": 30216,
+              "uncompressedBytes": 464242,
+              "sha256": "d9a8ed1d3b88669ff76d6887b7d03f712953be76493634d7225f572f37709109",
+              "bbox": [
+                -9.18174585,
+                -72.18425525,
+                1.9022234,
+                -56.369597850000005
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "AP",
+          "recordCount": 231,
+          "sizeBytes": 8822,
+          "sha256": "2b4d19160965fed603510c345365e8351feac20ee980138397bbb461fe376943",
+          "bbox": [
+            -1.0851861500000002,
+            -54.75,
+            4.1600134,
+            -49.94372415000001
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ap/tile_000.json.gz",
+              "recordCount": 231,
+              "sizeBytes": 8822,
+              "uncompressedBytes": 136807,
+              "sha256": "2b4d19160965fed603510c345365e8351feac20ee980138397bbb461fe376943",
+              "bbox": [
+                -1.0851861500000002,
+                -54.75,
+                4.1600134,
+                -49.94372415000001
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "BA",
+          "recordCount": 2518,
+          "sizeBytes": 84359,
+          "sha256": "c12a40b651e1e9ba5660f9a6962cadc52efa1611bb3e6b4a3b5f7c9103ffcc0d",
+          "bbox": [
+            -18.233333333,
+            -46.3042564,
+            -8.6497595,
+            -37.56670750000001
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ba/tile_000.json.gz",
+              "recordCount": 2518,
+              "sizeBytes": 84359,
+              "uncompressedBytes": 1360060,
+              "sha256": "c12a40b651e1e9ba5660f9a6962cadc52efa1611bb3e6b4a3b5f7c9103ffcc0d",
+              "bbox": [
+                -18.233333333,
+                -46.3042564,
+                -8.6497595,
+                -37.56670750000001
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "CE",
+          "recordCount": 1318,
+          "sizeBytes": 44498,
+          "sha256": "21bc9e1aa354aea62aa1540103e90e0f5ea218b51b3de00ca5b92a6215b8221a",
+          "bbox": [
+            -7.8313977,
+            -41.292530400000004,
+            -2.7880799,
+            -37.266666666
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ce/tile_000.json.gz",
+              "recordCount": 1318,
+              "sizeBytes": 44498,
+              "uncompressedBytes": 690565,
+              "sha256": "21bc9e1aa354aea62aa1540103e90e0f5ea218b51b3de00ca5b92a6215b8221a",
+              "bbox": [
+                -7.8313977,
+                -41.292530400000004,
+                -2.7880799,
+                -37.266666666
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "DF",
+          "recordCount": 140,
+          "sizeBytes": 8100,
+          "sha256": "f1ea0b311b5076da556bdf91436e445465b6bd1e7d96490663f5c6066d34388c",
+          "bbox": [
+            -16.04293465,
+            -48.229761550000006,
+            -15.5061619,
+            -47.464564100000004
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/df/tile_000.json.gz",
+              "recordCount": 140,
+              "sizeBytes": 8100,
+              "uncompressedBytes": 103428,
+              "sha256": "f1ea0b311b5076da556bdf91436e445465b6bd1e7d96490663f5c6066d34388c",
+              "bbox": [
+                -16.04293465,
+                -48.229761550000006,
+                -15.5061619,
+                -47.464564100000004
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "ES",
+          "recordCount": 947,
+          "sizeBytes": 35905,
+          "sha256": "d2e89129947305d6d6cb90673309c331390654d5dbb5ec31d8d218a8116b80e1",
+          "bbox": [
+            -21.210200300000004,
+            -41.8751799,
+            -18.0841186,
+            -29.30493
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/es/tile_000.json.gz",
+              "recordCount": 947,
+              "sizeBytes": 35905,
+              "uncompressedBytes": 520467,
+              "sha256": "d2e89129947305d6d6cb90673309c331390654d5dbb5ec31d8d218a8116b80e1",
+              "bbox": [
+                -21.210200300000004,
+                -41.8751799,
+                -18.0841186,
+                -29.30493
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "GO",
+          "recordCount": 504,
+          "sizeBytes": 19953,
+          "sha256": "bdd1490e72de588bdf9334c4269987132c5213c1f8f11d997ea225b4fadcbc8a",
+          "bbox": [
+            -19.4134922,
+            -52.92732600000001,
+            -12.8315163,
+            -46.12210335
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/go/tile_000.json.gz",
+              "recordCount": 504,
+              "sizeBytes": 19953,
+              "uncompressedBytes": 297619,
+              "sha256": "bdd1490e72de588bdf9334c4269987132c5213c1f8f11d997ea225b4fadcbc8a",
+              "bbox": [
+                -19.4134922,
+                -52.92732600000001,
+                -12.8315163,
+                -46.12210335
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "MA",
+          "recordCount": 316,
+          "sizeBytes": 12748,
+          "sha256": "0a610246ee5990d1bfa9501c212aaf44afabad5ef353b0ab25e1811da9a5925d",
+          "bbox": [
+            -10.169521600000001,
+            -48.194907900000004,
+            -1.0939112500000001,
+            -41.8675
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ma/tile_000.json.gz",
+              "recordCount": 316,
+              "sizeBytes": 12748,
+              "uncompressedBytes": 175840,
+              "sha256": "0a610246ee5990d1bfa9501c212aaf44afabad5ef353b0ab25e1811da9a5925d",
+              "bbox": [
+                -10.169521600000001,
+                -48.194907900000004,
+                -1.0939112500000001,
+                -41.8675
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "MG",
+          "recordCount": 2794,
+          "sizeBytes": 103775,
+          "sha256": "1570494012403c9195bc5f538c6878c437d94a0fbdd767bfd9fe7dbe267ad8eb",
+          "bbox": [
+            -22.9047449,
+            -50.810194100000004,
+            -14.32464625,
+            -39.95035850000001
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/mg/tile_000.json.gz",
+              "recordCount": 2794,
+              "sizeBytes": 103775,
+              "uncompressedBytes": 1544898,
+              "sha256": "1570494012403c9195bc5f538c6878c437d94a0fbdd767bfd9fe7dbe267ad8eb",
+              "bbox": [
+                -22.9047449,
+                -50.810194100000004,
+                -14.32464625,
+                -39.95035850000001
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "MS",
+          "recordCount": 341,
+          "sizeBytes": 13331,
+          "sha256": "143dc3055ae2216f57da12634b7343772002bd71c974afd38080c0a8dce1ba4c",
+          "bbox": [
+            -24.048923600000002,
+            -58.16532255,
+            -17.3143217,
+            -51.1132
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ms/tile_000.json.gz",
+              "recordCount": 341,
+              "sizeBytes": 13331,
+              "uncompressedBytes": 198757,
+              "sha256": "143dc3055ae2216f57da12634b7343772002bd71c974afd38080c0a8dce1ba4c",
+              "bbox": [
+                -24.048923600000002,
+                -58.16532255,
+                -17.3143217,
+                -51.1132
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "MT",
+          "recordCount": 594,
+          "sizeBytes": 24850,
+          "sha256": "8c75124d4a80161e8928444fdee3eb2f30b7f74dc8ad036bd117cbb48a6d7908",
+          "bbox": [
+            -17.970259300000002,
+            -61.39481175,
+            -7.3615058,
+            -50.598856850000004
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/mt/tile_000.json.gz",
+              "recordCount": 594,
+              "sizeBytes": 24850,
+              "uncompressedBytes": 363514,
+              "sha256": "8c75124d4a80161e8928444fdee3eb2f30b7f74dc8ad036bd117cbb48a6d7908",
+              "bbox": [
+                -17.970259300000002,
+                -61.39481175,
+                -7.3615058,
+                -50.598856850000004
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "PA",
+          "recordCount": 1142,
+          "sizeBytes": 41864,
+          "sha256": "4d584e1f6e46d178ebeb6c53afa21e9d9fbeff00f381835acd0378d93d39596f",
+          "bbox": [
+            -9.5579079,
+            -58.593317500000005,
+            2.41596135,
+            -46.066666666
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/pa/tile_000.json.gz",
+              "recordCount": 1142,
+              "sizeBytes": 41864,
+              "uncompressedBytes": 662407,
+              "sha256": "4d584e1f6e46d178ebeb6c53afa21e9d9fbeff00f381835acd0378d93d39596f",
+              "bbox": [
+                -9.5579079,
+                -58.593317500000005,
+                2.41596135,
+                -46.066666666
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "PB",
+          "recordCount": 822,
+          "sizeBytes": 28940,
+          "sha256": "7f1795ce9543f6ffeb0500b974eb25b9dbb3830e601e047ae104b199f3c99982",
+          "bbox": [
+            -8.14395445,
+            -38.6800289,
+            -6.05,
+            -34.7933086
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/pb/tile_000.json.gz",
+              "recordCount": 822,
+              "sizeBytes": 28940,
+              "uncompressedBytes": 433073,
+              "sha256": "7f1795ce9543f6ffeb0500b974eb25b9dbb3830e601e047ae104b199f3c99982",
+              "bbox": [
+                -8.14395445,
+                -38.6800289,
+                -6.05,
+                -34.7933086
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "PE",
+          "recordCount": 796,
+          "sizeBytes": 32282,
+          "sha256": "d862372b7ba37248679a47687820c160b4a65dea3159cf93dfd8d58501d2180a",
+          "bbox": [
+            -9.47993245,
+            -41.081056700000005,
+            -3.8376839500000006,
+            -32.4015915
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/pe/tile_000.json.gz",
+              "recordCount": 796,
+              "sizeBytes": 32282,
+              "uncompressedBytes": 456162,
+              "sha256": "d862372b7ba37248679a47687820c160b4a65dea3159cf93dfd8d58501d2180a",
+              "bbox": [
+                -9.47993245,
+                -41.081056700000005,
+                -3.8376839500000006,
+                -32.4015915
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "PI",
+          "recordCount": 507,
+          "sizeBytes": 17596,
+          "sha256": "9734325425354aa9faf23d90097bc7d7e7a968bace13697b17c788a42d6612e4",
+          "bbox": [
+            -10.816430400000002,
+            -45.923220400000005,
+            -2.82389,
+            -40.569332900000006
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/pi/tile_000.json.gz",
+              "recordCount": 507,
+              "sizeBytes": 17596,
+              "uncompressedBytes": 281196,
+              "sha256": "9734325425354aa9faf23d90097bc7d7e7a968bace13697b17c788a42d6612e4",
+              "bbox": [
+                -10.816430400000002,
+                -45.923220400000005,
+                -2.82389,
+                -40.569332900000006
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "PR",
+          "recordCount": 1830,
+          "sizeBytes": 72938,
+          "sha256": "666dd7051c02792fac50c1d580e690b4c45f482d167d91a24a0087c0162c4672",
+          "bbox": [
+            -26.6956604,
+            -54.60166825,
+            -22.60968735,
+            -48.100109700000004
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/pr/tile_000.json.gz",
+              "recordCount": 1830,
+              "sizeBytes": 72938,
+              "uncompressedBytes": 1126037,
+              "sha256": "666dd7051c02792fac50c1d580e690b4c45f482d167d91a24a0087c0162c4672",
+              "bbox": [
+                -26.6956604,
+                -54.60166825,
+                -22.60968735,
+                -48.100109700000004
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "RJ",
+          "recordCount": 2508,
+          "sizeBytes": 110516,
+          "sha256": "d23b495f347780c725c661617221eafe6dd0e0b1c09586ba6424cb3a9b8b5fec",
+          "bbox": [
+            -23.3624221,
+            -44.821851,
+            -20.7952155,
+            -40.964748650000004
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/rj/tile_000.json.gz",
+              "recordCount": 2508,
+              "sizeBytes": 110516,
+              "uncompressedBytes": 1727167,
+              "sha256": "d23b495f347780c725c661617221eafe6dd0e0b1c09586ba6424cb3a9b8b5fec",
+              "bbox": [
+                -23.3624221,
+                -44.821851,
+                -20.7952155,
+                -40.964748650000004
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "RN",
+          "recordCount": 299,
+          "sizeBytes": 13430,
+          "sha256": "c6a345f93f9270e856c52b45d84f0ce3dd16ba2a499209660597d0c71e241962",
+          "bbox": [
+            -6.940720600000001,
+            -38.36145635,
+            -4.93478245,
+            -34.97127760000001
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/rn/tile_000.json.gz",
+              "recordCount": 299,
+              "sizeBytes": 13430,
+              "uncompressedBytes": 165890,
+              "sha256": "c6a345f93f9270e856c52b45d84f0ce3dd16ba2a499209660597d0c71e241962",
+              "bbox": [
+                -6.940720600000001,
+                -38.36145635,
+                -4.93478245,
+                -34.97127760000001
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "RO",
+          "recordCount": 240,
+          "sizeBytes": 9414,
+          "sha256": "4839306c5c7f7f20bfbcae100f1d3f7a01534e7b60affc03eceb3d47bdd3df7f",
+          "bbox": [
+            -13.647819300000002,
+            -65.38816405,
+            -8.1563236,
+            -59.94695715
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/ro/tile_000.json.gz",
+              "recordCount": 240,
+              "sizeBytes": 9414,
+              "uncompressedBytes": 136760,
+              "sha256": "4839306c5c7f7f20bfbcae100f1d3f7a01534e7b60affc03eceb3d47bdd3df7f",
+              "bbox": [
+                -13.647819300000002,
+                -65.38816405,
+                -8.1563236,
+                -59.94695715
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "RR",
+          "recordCount": 246,
+          "sizeBytes": 10148,
+          "sha256": "fba6fb00f8a44bd4e2afe22cf25046479b40b92a56f8264e29025339d73c828e",
+          "bbox": [
+            -0.9160911500000001,
+            -64.7085553,
+            5.2695808,
+            -59.301975350000006
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/rr/tile_000.json.gz",
+              "recordCount": 246,
+              "sizeBytes": 10148,
+              "uncompressedBytes": 141205,
+              "sha256": "fba6fb00f8a44bd4e2afe22cf25046479b40b92a56f8264e29025339d73c828e",
+              "bbox": [
+                -0.9160911500000001,
+                -64.7085553,
+                5.2695808,
+                -59.301975350000006
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "RS",
+          "recordCount": 1719,
+          "sizeBytes": 66709,
+          "sha256": "7819cc9e85c939716939340a9cf51638e5f1939c44d6cffb49dca3c314c5347d",
+          "bbox": [
+            -33.743283000000005,
+            -57.62595,
+            -27.142723250000003,
+            -49.715275250000005
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/rs/tile_000.json.gz",
+              "recordCount": 1719,
+              "sizeBytes": 66709,
+              "uncompressedBytes": 938921,
+              "sha256": "7819cc9e85c939716939340a9cf51638e5f1939c44d6cffb49dca3c314c5347d",
+              "bbox": [
+                -33.743283000000005,
+                -57.62595,
+                -27.142723250000003,
+                -49.715275250000005
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "SC",
+          "recordCount": 1944,
+          "sizeBytes": 71483,
+          "sha256": "e60483f56cfd5799bc022d64501ee9990857f19d7a32d1c82a31eaecd60fbc3f",
+          "bbox": [
+            -29.349291700000002,
+            -53.78458615,
+            -25.9863157,
+            -48.361364300000005
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/sc/tile_000.json.gz",
+              "recordCount": 1944,
+              "sizeBytes": 71483,
+              "uncompressedBytes": 1112431,
+              "sha256": "e60483f56cfd5799bc022d64501ee9990857f19d7a32d1c82a31eaecd60fbc3f",
+              "bbox": [
+                -29.349291700000002,
+                -53.78458615,
+                -25.9863157,
+                -48.361364300000005
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "SE",
+          "recordCount": 206,
+          "sizeBytes": 8278,
+          "sha256": "b5fd567b2312b041671d4ab1b0c0b588fc365ed4b867902de80df8d1bcf1deb1",
+          "bbox": [
+            -11.500351550000001,
+            -38.187982950000006,
+            -9.5495581,
+            -36.410869500000004
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/se/tile_000.json.gz",
+              "recordCount": 206,
+              "sizeBytes": 8278,
+              "uncompressedBytes": 108372,
+              "sha256": "b5fd567b2312b041671d4ab1b0c0b588fc365ed4b867902de80df8d1bcf1deb1",
+              "bbox": [
+                -11.500351550000001,
+                -38.187982950000006,
+                -9.5495581,
+                -36.410869500000004
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "SP",
+          "recordCount": 3041,
+          "sizeBytes": 135575,
+          "sha256": "a96e0776184529b1e5bd4751a83e7a1a81a6c5318c0264fb1d1792e2b8bb5969",
+          "bbox": [
+            -25.24,
+            -53.0778909,
+            -19.978998,
+            -44.2925285
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/sp/tile_000.json.gz",
+              "recordCount": 3041,
+              "sizeBytes": 135575,
+              "uncompressedBytes": 1928955,
+              "sha256": "a96e0776184529b1e5bd4751a83e7a1a81a6c5318c0264fb1d1792e2b8bb5969",
+              "bbox": [
+                -25.24,
+                -53.0778909,
+                -19.978998,
+                -44.2925285
+              ]
+            }
+          ]
+        },
+        {
+          "regionCode": "TO",
+          "recordCount": 147,
+          "sizeBytes": 6889,
+          "sha256": "c4f1c541af25f8ec64f07e8c115afe0a4eb9e4a16beb3edd6ba235e0a5288a3d",
+          "bbox": [
+            -13.414980600000002,
+            -50.416666666,
+            -5.347612100000001,
+            -45.84816995
+          ],
+          "tiles": [
+            {
+              "tilePath": "countries/br/to/tile_000.json.gz",
+              "recordCount": 147,
+              "sizeBytes": 6889,
+              "uncompressedBytes": 85079,
+              "sha256": "c4f1c541af25f8ec64f07e8c115afe0a4eb9e4a16beb3edd6ba235e0a5288a3d",
+              "bbox": [
+                -13.414980600000002,
+                -50.416666666,
+                -5.347612100000001,
+                -45.84816995
               ]
             }
           ]
