@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T13:50:28.844Z",
+  "generatedAt": "2026-09-28T15:15:12.776Z",
   "countries": [
     {
       "countryCode": "BR",
-      "datasetVersion": "2.0.1",
+      "datasetVersion": "2.0.2",
       "schemaVersion": 1,
-      "recordCount": 26252,
-      "generatedAt": "2026-09-27T13:50:28.844Z",
+      "recordCount": 26253,
+      "generatedAt": "2026-09-28T15:15:12.776Z",
       "minAppSchemaVersion": 1,
-      "assetPath": "countries/br/br-v2.0.1.json.gz",
-      "sizeBytes": 1089672,
-      "uncompressedBytes": 15320850,
-      "sha256": "0cea3084f05fcf6f5f3fb7706eaa7718fb0177840f423a457df4b0e9be838c5a",
+      "assetPath": "countries/br/br-v2.0.2.json.gz",
+      "sizeBytes": 1089779,
+      "uncompressedBytes": 15321431,
+      "sha256": "4f33593c35ec2539f344ba0988ab4ee4bd55e08e1e714793a44e63889197173f",
       "bbox": [
         -33.743283000000005,
         -73.76338750000001,
@@ -23,8 +23,8 @@
         {
           "regionCode": "AC",
           "recordCount": 74,
-          "sizeBytes": 4144,
-          "sha256": "5ffa0f02fc8ec2bb1aa009a9756f59146719b62eb7bae8a3f5ca686d7cb4cf0e",
+          "sizeBytes": 4145,
+          "sha256": "534b7484af05f97c66c9f6db5ce74eeb11b5c3e863bf49a19bcb0fe249792e51",
           "bbox": [
             -10.91305775,
             -73.76338750000001,
@@ -35,9 +35,9 @@
             {
               "tilePath": "countries/br/ac/tile_000.json.gz",
               "recordCount": 74,
-              "sizeBytes": 4144,
+              "sizeBytes": 4145,
               "uncompressedBytes": 48126,
-              "sha256": "5ffa0f02fc8ec2bb1aa009a9756f59146719b62eb7bae8a3f5ca686d7cb4cf0e",
+              "sha256": "534b7484af05f97c66c9f6db5ce74eeb11b5c3e863bf49a19bcb0fe249792e51",
               "bbox": [
                 -10.91305775,
                 -73.76338750000001,
@@ -51,7 +51,7 @@
           "regionCode": "AL",
           "recordCount": 220,
           "sizeBytes": 8705,
-          "sha256": "280172da30678a98d45480d2447242decc8270a6e78b4d52e88263db586a5020",
+          "sha256": "e989bce5b497c5aa2a7a05125fa87f879db895178cacf1f7b52197f71149276b",
           "bbox": [
             -10.44917525,
             -38.1920562,
@@ -64,7 +64,7 @@
               "recordCount": 220,
               "sizeBytes": 8705,
               "uncompressedBytes": 117324,
-              "sha256": "280172da30678a98d45480d2447242decc8270a6e78b4d52e88263db586a5020",
+              "sha256": "e989bce5b497c5aa2a7a05125fa87f879db895178cacf1f7b52197f71149276b",
               "bbox": [
                 -10.44917525,
                 -38.1920562,
@@ -77,8 +77,8 @@
         {
           "regionCode": "AM",
           "recordCount": 808,
-          "sizeBytes": 30216,
-          "sha256": "d9a8ed1d3b88669ff76d6887b7d03f712953be76493634d7225f572f37709109",
+          "sizeBytes": 30215,
+          "sha256": "311d67aa5c8cb58ae8af0486ca0ac8b82f845b2a5ec2393b97dc688f10a40643",
           "bbox": [
             -9.18174585,
             -72.18425525,
@@ -89,9 +89,9 @@
             {
               "tilePath": "countries/br/am/tile_000.json.gz",
               "recordCount": 808,
-              "sizeBytes": 30216,
+              "sizeBytes": 30215,
               "uncompressedBytes": 464242,
-              "sha256": "d9a8ed1d3b88669ff76d6887b7d03f712953be76493634d7225f572f37709109",
+              "sha256": "311d67aa5c8cb58ae8af0486ca0ac8b82f845b2a5ec2393b97dc688f10a40643",
               "bbox": [
                 -9.18174585,
                 -72.18425525,
@@ -105,7 +105,7 @@
           "regionCode": "AP",
           "recordCount": 231,
           "sizeBytes": 8822,
-          "sha256": "2b4d19160965fed603510c345365e8351feac20ee980138397bbb461fe376943",
+          "sha256": "1e2f619153bd731d0e3def9567a17ee60a80ae9466a85b9fd6be7c7a1350b60e",
           "bbox": [
             -1.0851861500000002,
             -54.75,
@@ -118,7 +118,7 @@
               "recordCount": 231,
               "sizeBytes": 8822,
               "uncompressedBytes": 136807,
-              "sha256": "2b4d19160965fed603510c345365e8351feac20ee980138397bbb461fe376943",
+              "sha256": "1e2f619153bd731d0e3def9567a17ee60a80ae9466a85b9fd6be7c7a1350b60e",
               "bbox": [
                 -1.0851861500000002,
                 -54.75,
@@ -132,7 +132,7 @@
           "regionCode": "BA",
           "recordCount": 2518,
           "sizeBytes": 84359,
-          "sha256": "c12a40b651e1e9ba5660f9a6962cadc52efa1611bb3e6b4a3b5f7c9103ffcc0d",
+          "sha256": "f7e5087889428f1dc72a178b48c9f3ba2a327b2f6755ccdd77c0848080b1a759",
           "bbox": [
             -18.233333333,
             -46.3042564,
@@ -145,7 +145,7 @@
               "recordCount": 2518,
               "sizeBytes": 84359,
               "uncompressedBytes": 1360060,
-              "sha256": "c12a40b651e1e9ba5660f9a6962cadc52efa1611bb3e6b4a3b5f7c9103ffcc0d",
+              "sha256": "f7e5087889428f1dc72a178b48c9f3ba2a327b2f6755ccdd77c0848080b1a759",
               "bbox": [
                 -18.233333333,
                 -46.3042564,
@@ -159,7 +159,7 @@
           "regionCode": "CE",
           "recordCount": 1318,
           "sizeBytes": 44498,
-          "sha256": "21bc9e1aa354aea62aa1540103e90e0f5ea218b51b3de00ca5b92a6215b8221a",
+          "sha256": "42d87833f6655765b4e790ba8ad546bee2e933828c9744cd50aaf97f67536312",
           "bbox": [
             -7.8313977,
             -41.292530400000004,
@@ -172,7 +172,7 @@
               "recordCount": 1318,
               "sizeBytes": 44498,
               "uncompressedBytes": 690565,
-              "sha256": "21bc9e1aa354aea62aa1540103e90e0f5ea218b51b3de00ca5b92a6215b8221a",
+              "sha256": "42d87833f6655765b4e790ba8ad546bee2e933828c9744cd50aaf97f67536312",
               "bbox": [
                 -7.8313977,
                 -41.292530400000004,
@@ -186,7 +186,7 @@
           "regionCode": "DF",
           "recordCount": 140,
           "sizeBytes": 8100,
-          "sha256": "f1ea0b311b5076da556bdf91436e445465b6bd1e7d96490663f5c6066d34388c",
+          "sha256": "92528f83e693b024f4707503a72b3f06c3bc293a16eb10dd9fcb102c4a680eba",
           "bbox": [
             -16.04293465,
             -48.229761550000006,
@@ -199,7 +199,7 @@
               "recordCount": 140,
               "sizeBytes": 8100,
               "uncompressedBytes": 103428,
-              "sha256": "f1ea0b311b5076da556bdf91436e445465b6bd1e7d96490663f5c6066d34388c",
+              "sha256": "92528f83e693b024f4707503a72b3f06c3bc293a16eb10dd9fcb102c4a680eba",
               "bbox": [
                 -16.04293465,
                 -48.229761550000006,
@@ -212,8 +212,8 @@
         {
           "regionCode": "ES",
           "recordCount": 947,
-          "sizeBytes": 35905,
-          "sha256": "d2e89129947305d6d6cb90673309c331390654d5dbb5ec31d8d218a8116b80e1",
+          "sizeBytes": 35906,
+          "sha256": "b6916a05817337893906b1a68be597bbd0740673d9991827b619424d028d7f0a",
           "bbox": [
             -21.210200300000004,
             -41.8751799,
@@ -224,9 +224,9 @@
             {
               "tilePath": "countries/br/es/tile_000.json.gz",
               "recordCount": 947,
-              "sizeBytes": 35905,
+              "sizeBytes": 35906,
               "uncompressedBytes": 520467,
-              "sha256": "d2e89129947305d6d6cb90673309c331390654d5dbb5ec31d8d218a8116b80e1",
+              "sha256": "b6916a05817337893906b1a68be597bbd0740673d9991827b619424d028d7f0a",
               "bbox": [
                 -21.210200300000004,
                 -41.8751799,
@@ -240,7 +240,7 @@
           "regionCode": "GO",
           "recordCount": 504,
           "sizeBytes": 19953,
-          "sha256": "bdd1490e72de588bdf9334c4269987132c5213c1f8f11d997ea225b4fadcbc8a",
+          "sha256": "01e825473bd11cc066f20edfecc7c6c90408a09fca879eb918ae723d52b7d8d6",
           "bbox": [
             -19.4134922,
             -52.92732600000001,
@@ -253,7 +253,7 @@
               "recordCount": 504,
               "sizeBytes": 19953,
               "uncompressedBytes": 297619,
-              "sha256": "bdd1490e72de588bdf9334c4269987132c5213c1f8f11d997ea225b4fadcbc8a",
+              "sha256": "01e825473bd11cc066f20edfecc7c6c90408a09fca879eb918ae723d52b7d8d6",
               "bbox": [
                 -19.4134922,
                 -52.92732600000001,
@@ -266,8 +266,8 @@
         {
           "regionCode": "MA",
           "recordCount": 316,
-          "sizeBytes": 12748,
-          "sha256": "0a610246ee5990d1bfa9501c212aaf44afabad5ef353b0ab25e1811da9a5925d",
+          "sizeBytes": 12747,
+          "sha256": "099a7b56b1206d25e565adeb9170bf87106eccef44feb038630f3e95551a2a8b",
           "bbox": [
             -10.169521600000001,
             -48.194907900000004,
@@ -278,9 +278,9 @@
             {
               "tilePath": "countries/br/ma/tile_000.json.gz",
               "recordCount": 316,
-              "sizeBytes": 12748,
+              "sizeBytes": 12747,
               "uncompressedBytes": 175840,
-              "sha256": "0a610246ee5990d1bfa9501c212aaf44afabad5ef353b0ab25e1811da9a5925d",
+              "sha256": "099a7b56b1206d25e565adeb9170bf87106eccef44feb038630f3e95551a2a8b",
               "bbox": [
                 -10.169521600000001,
                 -48.194907900000004,
@@ -294,7 +294,7 @@
           "regionCode": "MG",
           "recordCount": 2794,
           "sizeBytes": 103775,
-          "sha256": "1570494012403c9195bc5f538c6878c437d94a0fbdd767bfd9fe7dbe267ad8eb",
+          "sha256": "18ae0ffc51e2ac3fab7ff0b6533a7087f3cc31b95aeb8598b3c022c428b9b3b9",
           "bbox": [
             -22.9047449,
             -50.810194100000004,
@@ -307,7 +307,7 @@
               "recordCount": 2794,
               "sizeBytes": 103775,
               "uncompressedBytes": 1544898,
-              "sha256": "1570494012403c9195bc5f538c6878c437d94a0fbdd767bfd9fe7dbe267ad8eb",
+              "sha256": "18ae0ffc51e2ac3fab7ff0b6533a7087f3cc31b95aeb8598b3c022c428b9b3b9",
               "bbox": [
                 -22.9047449,
                 -50.810194100000004,
@@ -320,8 +320,8 @@
         {
           "regionCode": "MS",
           "recordCount": 341,
-          "sizeBytes": 13331,
-          "sha256": "143dc3055ae2216f57da12634b7343772002bd71c974afd38080c0a8dce1ba4c",
+          "sizeBytes": 13329,
+          "sha256": "e32c4a667586b08fbcd4dca59507988eff7cee766e33653fd5ba263064a6c861",
           "bbox": [
             -24.048923600000002,
             -58.16532255,
@@ -332,9 +332,9 @@
             {
               "tilePath": "countries/br/ms/tile_000.json.gz",
               "recordCount": 341,
-              "sizeBytes": 13331,
+              "sizeBytes": 13329,
               "uncompressedBytes": 198757,
-              "sha256": "143dc3055ae2216f57da12634b7343772002bd71c974afd38080c0a8dce1ba4c",
+              "sha256": "e32c4a667586b08fbcd4dca59507988eff7cee766e33653fd5ba263064a6c861",
               "bbox": [
                 -24.048923600000002,
                 -58.16532255,
@@ -346,9 +346,9 @@
         },
         {
           "regionCode": "MT",
-          "recordCount": 594,
-          "sizeBytes": 24850,
-          "sha256": "8c75124d4a80161e8928444fdee3eb2f30b7f74dc8ad036bd117cbb48a6d7908",
+          "recordCount": 595,
+          "sizeBytes": 24972,
+          "sha256": "f9f6b97bf9dabd6584b24b4ab8d525a10e9d42a8337e81e8232493aad5e88ede",
           "bbox": [
             -17.970259300000002,
             -61.39481175,
@@ -358,10 +358,10 @@
           "tiles": [
             {
               "tilePath": "countries/br/mt/tile_000.json.gz",
-              "recordCount": 594,
-              "sizeBytes": 24850,
-              "uncompressedBytes": 363514,
-              "sha256": "8c75124d4a80161e8928444fdee3eb2f30b7f74dc8ad036bd117cbb48a6d7908",
+              "recordCount": 595,
+              "sizeBytes": 24972,
+              "uncompressedBytes": 364102,
+              "sha256": "f9f6b97bf9dabd6584b24b4ab8d525a10e9d42a8337e81e8232493aad5e88ede",
               "bbox": [
                 -17.970259300000002,
                 -61.39481175,
@@ -374,8 +374,8 @@
         {
           "regionCode": "PA",
           "recordCount": 1142,
-          "sizeBytes": 41864,
-          "sha256": "4d584e1f6e46d178ebeb6c53afa21e9d9fbeff00f381835acd0378d93d39596f",
+          "sizeBytes": 41863,
+          "sha256": "08ab2099e407546461c5679286d6ad55e3820de7eb60f11af70f1b7b6b843234",
           "bbox": [
             -9.5579079,
             -58.593317500000005,
@@ -386,9 +386,9 @@
             {
               "tilePath": "countries/br/pa/tile_000.json.gz",
               "recordCount": 1142,
-              "sizeBytes": 41864,
+              "sizeBytes": 41863,
               "uncompressedBytes": 662407,
-              "sha256": "4d584e1f6e46d178ebeb6c53afa21e9d9fbeff00f381835acd0378d93d39596f",
+              "sha256": "08ab2099e407546461c5679286d6ad55e3820de7eb60f11af70f1b7b6b843234",
               "bbox": [
                 -9.5579079,
                 -58.593317500000005,
@@ -401,8 +401,8 @@
         {
           "regionCode": "PB",
           "recordCount": 822,
-          "sizeBytes": 28940,
-          "sha256": "7f1795ce9543f6ffeb0500b974eb25b9dbb3830e601e047ae104b199f3c99982",
+          "sizeBytes": 28939,
+          "sha256": "72cd7041c37245007f3df65f6e19ccd6e675e06448ff3c4a60fed36a2119a9ae",
           "bbox": [
             -8.14395445,
             -38.6800289,
@@ -413,9 +413,9 @@
             {
               "tilePath": "countries/br/pb/tile_000.json.gz",
               "recordCount": 822,
-              "sizeBytes": 28940,
+              "sizeBytes": 28939,
               "uncompressedBytes": 433073,
-              "sha256": "7f1795ce9543f6ffeb0500b974eb25b9dbb3830e601e047ae104b199f3c99982",
+              "sha256": "72cd7041c37245007f3df65f6e19ccd6e675e06448ff3c4a60fed36a2119a9ae",
               "bbox": [
                 -8.14395445,
                 -38.6800289,
@@ -428,8 +428,8 @@
         {
           "regionCode": "PE",
           "recordCount": 796,
-          "sizeBytes": 32282,
-          "sha256": "d862372b7ba37248679a47687820c160b4a65dea3159cf93dfd8d58501d2180a",
+          "sizeBytes": 32280,
+          "sha256": "654073b3e3346752d45fbbdab36c224d27091ae202adf75d43ad9d67ba9ea606",
           "bbox": [
             -9.47993245,
             -41.081056700000005,
@@ -440,9 +440,9 @@
             {
               "tilePath": "countries/br/pe/tile_000.json.gz",
               "recordCount": 796,
-              "sizeBytes": 32282,
-              "uncompressedBytes": 456162,
-              "sha256": "d862372b7ba37248679a47687820c160b4a65dea3159cf93dfd8d58501d2180a",
+              "sizeBytes": 32280,
+              "uncompressedBytes": 456155,
+              "sha256": "654073b3e3346752d45fbbdab36c224d27091ae202adf75d43ad9d67ba9ea606",
               "bbox": [
                 -9.47993245,
                 -41.081056700000005,
@@ -456,7 +456,7 @@
           "regionCode": "PI",
           "recordCount": 507,
           "sizeBytes": 17596,
-          "sha256": "9734325425354aa9faf23d90097bc7d7e7a968bace13697b17c788a42d6612e4",
+          "sha256": "2929bd3235f4b425381be4058281a242283dfc2545e8e5e7f260d26f92245c65",
           "bbox": [
             -10.816430400000002,
             -45.923220400000005,
@@ -469,7 +469,7 @@
               "recordCount": 507,
               "sizeBytes": 17596,
               "uncompressedBytes": 281196,
-              "sha256": "9734325425354aa9faf23d90097bc7d7e7a968bace13697b17c788a42d6612e4",
+              "sha256": "2929bd3235f4b425381be4058281a242283dfc2545e8e5e7f260d26f92245c65",
               "bbox": [
                 -10.816430400000002,
                 -45.923220400000005,
@@ -483,7 +483,7 @@
           "regionCode": "PR",
           "recordCount": 1830,
           "sizeBytes": 72938,
-          "sha256": "666dd7051c02792fac50c1d580e690b4c45f482d167d91a24a0087c0162c4672",
+          "sha256": "5a78e28f913e11b2035f01ade84a46f8f57d6dbdb1c7cf0ed391757847a245c4",
           "bbox": [
             -26.6956604,
             -54.60166825,
@@ -496,7 +496,7 @@
               "recordCount": 1830,
               "sizeBytes": 72938,
               "uncompressedBytes": 1126037,
-              "sha256": "666dd7051c02792fac50c1d580e690b4c45f482d167d91a24a0087c0162c4672",
+              "sha256": "5a78e28f913e11b2035f01ade84a46f8f57d6dbdb1c7cf0ed391757847a245c4",
               "bbox": [
                 -26.6956604,
                 -54.60166825,
@@ -509,8 +509,8 @@
         {
           "regionCode": "RJ",
           "recordCount": 2508,
-          "sizeBytes": 110516,
-          "sha256": "d23b495f347780c725c661617221eafe6dd0e0b1c09586ba6424cb3a9b8b5fec",
+          "sizeBytes": 110515,
+          "sha256": "3eb4662421235eb7e41931c1fe3dd7904f6dbbca764b5bdb4f6e61873012e898",
           "bbox": [
             -23.3624221,
             -44.821851,
@@ -521,9 +521,9 @@
             {
               "tilePath": "countries/br/rj/tile_000.json.gz",
               "recordCount": 2508,
-              "sizeBytes": 110516,
+              "sizeBytes": 110515,
               "uncompressedBytes": 1727167,
-              "sha256": "d23b495f347780c725c661617221eafe6dd0e0b1c09586ba6424cb3a9b8b5fec",
+              "sha256": "3eb4662421235eb7e41931c1fe3dd7904f6dbbca764b5bdb4f6e61873012e898",
               "bbox": [
                 -23.3624221,
                 -44.821851,
@@ -536,8 +536,8 @@
         {
           "regionCode": "RN",
           "recordCount": 299,
-          "sizeBytes": 13430,
-          "sha256": "c6a345f93f9270e856c52b45d84f0ce3dd16ba2a499209660597d0c71e241962",
+          "sizeBytes": 13431,
+          "sha256": "c59e7859f7412d228f4ae841c7b1c20b00d48fa2ed0b3d445a5c3ba1d8bf47ab",
           "bbox": [
             -6.940720600000001,
             -38.36145635,
@@ -548,9 +548,9 @@
             {
               "tilePath": "countries/br/rn/tile_000.json.gz",
               "recordCount": 299,
-              "sizeBytes": 13430,
+              "sizeBytes": 13431,
               "uncompressedBytes": 165890,
-              "sha256": "c6a345f93f9270e856c52b45d84f0ce3dd16ba2a499209660597d0c71e241962",
+              "sha256": "c59e7859f7412d228f4ae841c7b1c20b00d48fa2ed0b3d445a5c3ba1d8bf47ab",
               "bbox": [
                 -6.940720600000001,
                 -38.36145635,
@@ -563,8 +563,8 @@
         {
           "regionCode": "RO",
           "recordCount": 240,
-          "sizeBytes": 9414,
-          "sha256": "4839306c5c7f7f20bfbcae100f1d3f7a01534e7b60affc03eceb3d47bdd3df7f",
+          "sizeBytes": 9412,
+          "sha256": "77bfb02a50adad0829cb26808cf033b432decf666ffc39cef4617f8d3019de0b",
           "bbox": [
             -13.647819300000002,
             -65.38816405,
@@ -575,9 +575,9 @@
             {
               "tilePath": "countries/br/ro/tile_000.json.gz",
               "recordCount": 240,
-              "sizeBytes": 9414,
+              "sizeBytes": 9412,
               "uncompressedBytes": 136760,
-              "sha256": "4839306c5c7f7f20bfbcae100f1d3f7a01534e7b60affc03eceb3d47bdd3df7f",
+              "sha256": "77bfb02a50adad0829cb26808cf033b432decf666ffc39cef4617f8d3019de0b",
               "bbox": [
                 -13.647819300000002,
                 -65.38816405,
@@ -590,8 +590,8 @@
         {
           "regionCode": "RR",
           "recordCount": 246,
-          "sizeBytes": 10148,
-          "sha256": "fba6fb00f8a44bd4e2afe22cf25046479b40b92a56f8264e29025339d73c828e",
+          "sizeBytes": 10150,
+          "sha256": "91e666496c02cb225076caa8972488b26060b2f22ebca2436687e2899e48c917",
           "bbox": [
             -0.9160911500000001,
             -64.7085553,
@@ -602,9 +602,9 @@
             {
               "tilePath": "countries/br/rr/tile_000.json.gz",
               "recordCount": 246,
-              "sizeBytes": 10148,
+              "sizeBytes": 10150,
               "uncompressedBytes": 141205,
-              "sha256": "fba6fb00f8a44bd4e2afe22cf25046479b40b92a56f8264e29025339d73c828e",
+              "sha256": "91e666496c02cb225076caa8972488b26060b2f22ebca2436687e2899e48c917",
               "bbox": [
                 -0.9160911500000001,
                 -64.7085553,
@@ -617,8 +617,8 @@
         {
           "regionCode": "RS",
           "recordCount": 1719,
-          "sizeBytes": 66709,
-          "sha256": "7819cc9e85c939716939340a9cf51638e5f1939c44d6cffb49dca3c314c5347d",
+          "sizeBytes": 66711,
+          "sha256": "5e234d8d06a6772d81b532710398153e38cc2bb01ef58bf7ebc3d16a2a1e59c4",
           "bbox": [
             -33.743283000000005,
             -57.62595,
@@ -629,9 +629,9 @@
             {
               "tilePath": "countries/br/rs/tile_000.json.gz",
               "recordCount": 1719,
-              "sizeBytes": 66709,
+              "sizeBytes": 66711,
               "uncompressedBytes": 938921,
-              "sha256": "7819cc9e85c939716939340a9cf51638e5f1939c44d6cffb49dca3c314c5347d",
+              "sha256": "5e234d8d06a6772d81b532710398153e38cc2bb01ef58bf7ebc3d16a2a1e59c4",
               "bbox": [
                 -33.743283000000005,
                 -57.62595,
@@ -644,8 +644,8 @@
         {
           "regionCode": "SC",
           "recordCount": 1944,
-          "sizeBytes": 71483,
-          "sha256": "e60483f56cfd5799bc022d64501ee9990857f19d7a32d1c82a31eaecd60fbc3f",
+          "sizeBytes": 71482,
+          "sha256": "8e66032a141e67f4a070148bd70dc866465dbfb6a309fa7cc2663a3eb17cf696",
           "bbox": [
             -29.349291700000002,
             -53.78458615,
@@ -656,9 +656,9 @@
             {
               "tilePath": "countries/br/sc/tile_000.json.gz",
               "recordCount": 1944,
-              "sizeBytes": 71483,
+              "sizeBytes": 71482,
               "uncompressedBytes": 1112431,
-              "sha256": "e60483f56cfd5799bc022d64501ee9990857f19d7a32d1c82a31eaecd60fbc3f",
+              "sha256": "8e66032a141e67f4a070148bd70dc866465dbfb6a309fa7cc2663a3eb17cf696",
               "bbox": [
                 -29.349291700000002,
                 -53.78458615,
@@ -671,8 +671,8 @@
         {
           "regionCode": "SE",
           "recordCount": 206,
-          "sizeBytes": 8278,
-          "sha256": "b5fd567b2312b041671d4ab1b0c0b588fc365ed4b867902de80df8d1bcf1deb1",
+          "sizeBytes": 8279,
+          "sha256": "d4845ab26729fb897d9211f50886d297e10475489545ba18bc74639de1d51695",
           "bbox": [
             -11.500351550000001,
             -38.187982950000006,
@@ -683,9 +683,9 @@
             {
               "tilePath": "countries/br/se/tile_000.json.gz",
               "recordCount": 206,
-              "sizeBytes": 8278,
+              "sizeBytes": 8279,
               "uncompressedBytes": 108372,
-              "sha256": "b5fd567b2312b041671d4ab1b0c0b588fc365ed4b867902de80df8d1bcf1deb1",
+              "sha256": "d4845ab26729fb897d9211f50886d297e10475489545ba18bc74639de1d51695",
               "bbox": [
                 -11.500351550000001,
                 -38.187982950000006,
@@ -698,8 +698,8 @@
         {
           "regionCode": "SP",
           "recordCount": 3041,
-          "sizeBytes": 135575,
-          "sha256": "a96e0776184529b1e5bd4751a83e7a1a81a6c5318c0264fb1d1792e2b8bb5969",
+          "sizeBytes": 135573,
+          "sha256": "310fdfebba65f693be7956f890ff0c524e3ceb427453253a5d28c43aec790a94",
           "bbox": [
             -25.24,
             -53.0778909,
@@ -710,9 +710,9 @@
             {
               "tilePath": "countries/br/sp/tile_000.json.gz",
               "recordCount": 3041,
-              "sizeBytes": 135575,
+              "sizeBytes": 135573,
               "uncompressedBytes": 1928955,
-              "sha256": "a96e0776184529b1e5bd4751a83e7a1a81a6c5318c0264fb1d1792e2b8bb5969",
+              "sha256": "310fdfebba65f693be7956f890ff0c524e3ceb427453253a5d28c43aec790a94",
               "bbox": [
                 -25.24,
                 -53.0778909,
@@ -725,8 +725,8 @@
         {
           "regionCode": "TO",
           "recordCount": 147,
-          "sizeBytes": 6889,
-          "sha256": "c4f1c541af25f8ec64f07e8c115afe0a4eb9e4a16beb3edd6ba235e0a5288a3d",
+          "sizeBytes": 6888,
+          "sha256": "9eed8b7516aedf5adabdfecbc9c173406464ec4c0f88ebb0e4aab79ee0036c1e",
           "bbox": [
             -13.414980600000002,
             -50.416666666,
@@ -737,9 +737,9 @@
             {
               "tilePath": "countries/br/to/tile_000.json.gz",
               "recordCount": 147,
-              "sizeBytes": 6889,
+              "sizeBytes": 6888,
               "uncompressedBytes": 85079,
-              "sha256": "c4f1c541af25f8ec64f07e8c115afe0a4eb9e4a16beb3edd6ba235e0a5288a3d",
+              "sha256": "9eed8b7516aedf5adabdfecbc9c173406464ec4c0f88ebb0e4aab79ee0036c1e",
               "bbox": [
                 -13.414980600000002,
                 -50.416666666,
