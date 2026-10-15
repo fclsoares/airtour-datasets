@@ -1,0 +1,26 @@
+{
+  "osm": {
+    "url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf",
+    "sha256": "f87228d36c6e21ce516580fd50be24f232da245ec285e2361800864857822b17",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "boundaries": {
+    "boundaryID": "PRT-ADM0-79933184",
+    "boundaryLicense": "Open Data Commons Open Database License 1.0",
+    "licenseDetail": "Open data noted on source page",
+    "licenseSource": "snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/5e3debf1-6cde-4ff2-8301-a86799231906",
+    "boundarySource": "DG Territory",
+    "buildDate": "Dec 12, 2023",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRT/ADM0/geoBoundaries-PRT-ADM0_simplified.geojson",
+    "api": "https://www.geoboundaries.org/api/current/gbOpen/PRT/ADM0/",
+    "sha256": "f8ae870a266e86a1ebc91823fdfd98c69c12ad28b9c52827b9e10f834f06f529",
+    "flightAuthorization": false
+  },
+  "usage": {
+    "scenicOnly": true,
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}

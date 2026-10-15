@@ -1,0 +1,26 @@
+{
+  "osm": {
+    "url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf",
+    "sha256": "6033bdd9a83b6ceccfd593a923bda701bd11805785115bd3839bf130e37e0555",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "boundaries": {
+    "boundaryID": "JPN-ADM1-47310658",
+    "boundaryLicense": "Open Data Commons Open Database License 1.0",
+    "licenseDetail": "Open Data Commons Open Database License 1.0",
+    "licenseSource": "www.openstreetmap.org/copyright",
+    "boundarySource": "OpenStreetMap, Wambacher",
+    "buildDate": "Dec 12, 2023",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JPN/ADM1/geoBoundaries-JPN-ADM1_simplified.geojson",
+    "api": "https://www.geoboundaries.org/api/current/gbOpen/JPN/ADM1/",
+    "sha256": "f18eeeb978d992a7147f636642932913731c231f298cb514bf7a3bd41a1aacc0",
+    "flightAuthorization": false
+  },
+  "usage": {
+    "scenicOnly": true,
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}
