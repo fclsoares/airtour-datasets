@@ -8,8 +8,8 @@
     "license": "ODbL-1.0",
     "attribution": "© OpenStreetMap contributors",
     "licenseUrl": "https://www.openstreetmap.org/copyright",
-    "sha256": "00f599575e5aae5b1a02c4feeca820bf4c33f3e3473e5d18a2e9d159cfb81bd6",
-    "verifiedAt": "2026-10-12T11:57:59.605Z"
+    "sha256": "f9b77b3cbe9ea894c9d31d5c8ed404220d51853b46bb07320f686d57c5bd5fb5",
+    "verifiedAt": "2026-10-19T09:58:07.026Z"
   },
   "wikidata": {
     "license": "CC0-1.0",
@@ -28,7 +28,7 @@
       "statement": "Os dados disponibilizados pelo Poder Executivo federal, bem como qualquer informação de transparência ativa, são de livre utilização pelo Governo federal e pela sociedade.",
       "attribution": "Instituto Brasileiro de Geografia e Estatística (IBGE), API de Malhas Geográficas, Unidades da Federação."
     },
-    "retrievedAt": "2026-10-12T11:51:00.974Z",
+    "retrievedAt": "2026-10-19T09:47:32.493Z",
     "sha256": "4435b2e0e62de6d68f5c5387e01efc31655242948ae9434b78a3b5b05582e497",
     "quality": "maxima",
     "meshReferenceYear": null,
