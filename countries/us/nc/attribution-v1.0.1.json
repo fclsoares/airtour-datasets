@@ -1,0 +1,26 @@
+{
+  "osm": {
+    "url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf",
+    "sha256": "ce89d76de4c34cc4d2646ed7037bbe65027703caab0f36a3a3d09c064390f3b0",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "boundaries": {
+    "boundaryID": "USA-ADM1-66186276",
+    "boundaryLicense": "Public Domain",
+    "licenseDetail": "nan",
+    "licenseSource": "www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html",
+    "boundarySource": "United States Census Bureau, MAF/TIGER Database",
+    "buildDate": "Dec 12, 2023",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM1/geoBoundaries-USA-ADM1_simplified.geojson",
+    "api": "https://www.geoboundaries.org/api/current/gbOpen/USA/ADM1/",
+    "sha256": "9d7a32244a5c3c2868d039355db2fdd9eb903ef255cfda128decd20bedc0dfbe",
+    "flightAuthorization": false
+  },
+  "usage": {
+    "scenicOnly": true,
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T09:59:13.731Z",
+  "generatedAt": "2026-10-28T21:13:26.316Z",
   "countries": [
     {
       "countryCode": "BR",
@@ -753,15 +753,15 @@
     },
     {
       "countryCode": "PT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 8850,
-      "generatedAt": "2026-10-15T19:07:08.088Z",
-      "sizeBytes": 509080,
-      "uncompressedBytes": 6852880,
-      "sha256": "87cfdfd5593849160dd881cac79371ccb8c8b4d0eccbe81b9aa22c982e4a2aad",
+      "recordCount": 8860,
+      "generatedAt": "2026-10-28T20:30:15.355Z",
+      "sizeBytes": 509778,
+      "uncompressedBytes": 6859761,
+      "sha256": "41eeef7969a9412b30330506c2713835a94b8805d5d4c84ab7cbc3a6fc4f7e6c",
       "minAppSchemaVersion": 1,
-      "assetPath": "countries/pt/pt-v1.0.0.json.gz",
+      "assetPath": "countries/pt/pt-v1.0.1.json.gz",
       "bbox": [
         30.031575750000002,
         -31.2626297,
@@ -774,13 +774,13 @@
   "packages": [
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 8628,
-      "generatedAt": "2026-10-15T19:07:37.120Z",
-      "sizeBytes": 327721,
-      "uncompressedBytes": 5181435,
-      "sha256": "019e8e5f67a053bb930d2dc365ecefbecfa0b8663e1609ac302f1532490eb48b",
+      "recordCount": 8641,
+      "generatedAt": "2026-10-28T20:30:36.047Z",
+      "sizeBytes": 328575,
+      "uncompressedBytes": 5188923,
+      "sha256": "1d356a4f1e15f8748feb26ea4f5ad3278d77bee54e2e10e7169676cb3d5716e4",
       "minAppSchemaVersion": 1,
       "regionCode": "AN",
       "regionName": "Andalucía",
@@ -788,17 +788,17 @@
         "Andalucía",
         "Andalusia"
       ],
-      "assetName": "countries/es/an/es-an-v1.0.0.json.gz"
+      "assetName": "countries/es/an/es-an-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5456,
-      "generatedAt": "2026-10-15T19:07:30.872Z",
-      "sizeBytes": 199863,
-      "uncompressedBytes": 3042898,
-      "sha256": "6648c3891549aba9b803ae2f1fddc19a1e91e2ef013861ce574dcb311f1c13b4",
+      "recordCount": 5477,
+      "generatedAt": "2026-10-28T20:30:43.491Z",
+      "sizeBytes": 200890,
+      "uncompressedBytes": 3053683,
+      "sha256": "27e699ad858cb8a44e711631e49ea619521871801fe965e14c633385039afefa",
       "minAppSchemaVersion": 1,
       "regionCode": "AR",
       "regionName": "Aragón",
@@ -806,17 +806,17 @@
         "Aragón",
         "Aragon"
       ],
-      "assetName": "countries/es/ar/es-ar-v1.0.0.json.gz"
+      "assetName": "countries/es/ar/es-ar-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2808,
-      "generatedAt": "2026-10-15T19:08:29.503Z",
-      "sizeBytes": 99119,
-      "uncompressedBytes": 1579741,
-      "sha256": "6114da185f9ab64637c42efb3ea6417d13d3596f2e07d16ab1ef0a261aa6f8c5",
+      "recordCount": 2809,
+      "generatedAt": "2026-10-28T20:31:47.609Z",
+      "sizeBytes": 99258,
+      "uncompressedBytes": 1580326,
+      "sha256": "35e4125b4382264087c5ec8e24081a61f33e7700bbaea8bc1b97f34d2a0f1373",
       "minAppSchemaVersion": 1,
       "regionCode": "AS",
       "regionName": "Asturias",
@@ -826,34 +826,34 @@
         "Principality of Asturias",
         "Asturies"
       ],
-      "assetName": "countries/es/as/es-as-v1.0.0.json.gz"
+      "assetName": "countries/es/as/es-as-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 2305,
-      "generatedAt": "2026-10-15T19:08:51.626Z",
+      "generatedAt": "2026-10-28T20:32:23.532Z",
       "sizeBytes": 81289,
       "uncompressedBytes": 1256347,
-      "sha256": "3f08694e0bf804e9101f0194f8c5a5cdcd934a418cb46d543cbe08d265e54443",
+      "sha256": "2c25c014ad88f765274d6e8b52bbe99723de6000e3a14714f6e41107b0e6e5d4",
       "minAppSchemaVersion": 1,
       "regionCode": "CB",
       "regionName": "Cantabria",
       "regionAliases": [
         "Cantabria"
       ],
-      "assetName": "countries/es/cb/es-cb-v1.0.0.json.gz"
+      "assetName": "countries/es/cb/es-cb-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 32,
-      "generatedAt": "2026-10-15T19:14:22.342Z",
+      "generatedAt": "2026-10-28T20:38:12.520Z",
       "sizeBytes": 2145,
       "uncompressedBytes": 18787,
-      "sha256": "d2b650cccdd72d64ecd158864edf28857b62da2004eec106987214230ad8ca4d",
+      "sha256": "f2b56f733a08079971cbb0a8fa17ed9e91fce178f0495032464a1493264ca03b",
       "minAppSchemaVersion": 1,
       "regionCode": "CE",
       "regionName": "Ceuta",
@@ -862,17 +862,17 @@
         "Ciudad Autónoma de Ceuta",
         "Autonomous City of Ceuta"
       ],
-      "assetName": "countries/es/ce/es-ce-v1.0.0.json.gz"
+      "assetName": "countries/es/ce/es-ce-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7423,
-      "generatedAt": "2026-10-15T19:09:21.811Z",
-      "sizeBytes": 280094,
-      "uncompressedBytes": 4438800,
-      "sha256": "c5e0fcff7fb2c7e2512df71ec0824e20d965d2183cceefb74c45862c681f030a",
+      "recordCount": 7451,
+      "generatedAt": "2026-10-28T20:33:01.497Z",
+      "sizeBytes": 281444,
+      "uncompressedBytes": 4455702,
+      "sha256": "d785ff3fe8e2269bbe09961b9c060b95c78ec83f58171032b3dd6dd617eb97f4",
       "minAppSchemaVersion": 1,
       "regionCode": "CL",
       "regionName": "Castilla y León",
@@ -881,17 +881,17 @@
         "Castile and León",
         "Castile and Leon"
       ],
-      "assetName": "countries/es/cl/es-cl-v1.0.0.json.gz"
+      "assetName": "countries/es/cl/es-cl-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3607,
-      "generatedAt": "2026-10-15T19:09:33.234Z",
-      "sizeBytes": 137822,
-      "uncompressedBytes": 2367184,
-      "sha256": "9de402c65ecdd922b3164c2462d5f244f2499d0d68591345b622abd3177c2ec8",
+      "recordCount": 3617,
+      "generatedAt": "2026-10-28T20:33:14.231Z",
+      "sizeBytes": 138334,
+      "uncompressedBytes": 2372583,
+      "sha256": "d65758a66fd75f7ca4876101b49487c199a0f09f3cf4e1ef9afe93f3b1e82974",
       "minAppSchemaVersion": 1,
       "regionCode": "CM",
       "regionName": "Castilla-La Mancha",
@@ -899,17 +899,17 @@
         "Castilla-La Mancha",
         "Castile-La Mancha"
       ],
-      "assetName": "countries/es/cm/es-cm-v1.0.0.json.gz"
+      "assetName": "countries/es/cm/es-cm-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4498,
-      "generatedAt": "2026-10-15T19:09:56.106Z",
-      "sizeBytes": 188940,
-      "uncompressedBytes": 2902575,
-      "sha256": "be4bacb9303e847db30d41f032b3a01559c983604e21cff342c31f5c0aab72a2",
+      "recordCount": 4501,
+      "generatedAt": "2026-10-28T20:33:09.994Z",
+      "sizeBytes": 189206,
+      "uncompressedBytes": 2904283,
+      "sha256": "1998b8009ee3dc215b62cab407bb0e5529773cb181be0866e892ceb50815482c",
       "minAppSchemaVersion": 1,
       "regionCode": "CN",
       "regionName": "Canarias",
@@ -918,17 +918,17 @@
         "Canary Islands",
         "Islas Canarias"
       ],
-      "assetName": "countries/es/cn/es-cn-v1.0.0.json.gz"
+      "assetName": "countries/es/cn/es-cn-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 15027,
-      "generatedAt": "2026-10-15T19:10:06.984Z",
-      "sizeBytes": 611783,
-      "uncompressedBytes": 9203889,
-      "sha256": "2d82acc0dfeef7d8f7e2ccc48fc46b67c324228bf85c98acdb572a5314a83f3d",
+      "recordCount": 15051,
+      "generatedAt": "2026-10-28T20:33:45.956Z",
+      "sizeBytes": 614119,
+      "uncompressedBytes": 9219303,
+      "sha256": "12e8bb4539f93cea7ede67618fd4f0529ea4fbdd15e4fa2dd61c6be13fdd1b5e",
       "minAppSchemaVersion": 1,
       "regionCode": "CT",
       "regionName": "Cataluña",
@@ -938,34 +938,34 @@
         "Catalunya",
         "Catalonia"
       ],
-      "assetName": "countries/es/ct/es-ct-v1.0.0.json.gz"
+      "assetName": "countries/es/ct/es-ct-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1714,
-      "generatedAt": "2026-10-15T19:11:10.770Z",
-      "sizeBytes": 61694,
+      "generatedAt": "2026-10-28T20:34:42.730Z",
+      "sizeBytes": 61696,
       "uncompressedBytes": 967196,
-      "sha256": "8b7e13b6e1124851c58d594c5c64fa540697747647b730e722cf1bb7417a5544",
+      "sha256": "411a09cd91496b29ff6bd329e19fd2eaea161a637bb6991d634aa6e95d76b85c",
       "minAppSchemaVersion": 1,
       "regionCode": "EX",
       "regionName": "Extremadura",
       "regionAliases": [
         "Extremadura"
       ],
-      "assetName": "countries/es/ex/es-ex-v1.0.0.json.gz"
+      "assetName": "countries/es/ex/es-ex-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7224,
-      "generatedAt": "2026-10-15T19:10:55.111Z",
-      "sizeBytes": 283734,
-      "uncompressedBytes": 4767833,
-      "sha256": "24da4bebe2c05a26bff4dc804641b8c44195cd8ad05859d13e51b23c70fb04c2",
+      "recordCount": 7229,
+      "generatedAt": "2026-10-28T20:34:38.021Z",
+      "sizeBytes": 284109,
+      "uncompressedBytes": 4771743,
+      "sha256": "5556bf7223ef1d044ef4f483c61f93299a817a027e671ac3b6c4ae7903ee39ee",
       "minAppSchemaVersion": 1,
       "regionCode": "GA",
       "regionName": "Galicia",
@@ -973,17 +973,17 @@
         "Galicia",
         "Galiza"
       ],
-      "assetName": "countries/es/ga/es-ga-v1.0.0.json.gz"
+      "assetName": "countries/es/ga/es-ga-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2941,
-      "generatedAt": "2026-10-15T19:11:30.309Z",
-      "sizeBytes": 108246,
-      "uncompressedBytes": 1622959,
-      "sha256": "ca8a865a16009a543d6f50b4f67627bac53be0ff3fef0e6bacb1f863b48d93ab",
+      "recordCount": 2942,
+      "generatedAt": "2026-10-28T20:35:00.109Z",
+      "sizeBytes": 108380,
+      "uncompressedBytes": 1623545,
+      "sha256": "70e711cca77f551a285786a66f9ee6548f87d1ea4d0ab71e0c494b83d4c8459c",
       "minAppSchemaVersion": 1,
       "regionCode": "IB",
       "regionName": "Illes Balears",
@@ -992,17 +992,17 @@
         "Islas Baleares",
         "Balearic Islands"
       ],
-      "assetName": "countries/es/ib/es-ib-v1.0.0.json.gz"
+      "assetName": "countries/es/ib/es-ib-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1197,
-      "generatedAt": "2026-10-15T19:11:56.237Z",
-      "sizeBytes": 49834,
-      "uncompressedBytes": 863729,
-      "sha256": "5bb82f8aacca1295465d8be9afd25a17b04edbee13edbeb8262db9eef13015de",
+      "generatedAt": "2026-10-28T20:35:51.301Z",
+      "sizeBytes": 49825,
+      "uncompressedBytes": 863562,
+      "sha256": "89df371c5a9b01a54ece70b4d92f240f3575c1a544e2df07321e74ed74bba812",
       "minAppSchemaVersion": 1,
       "regionCode": "MC",
       "regionName": "Región de Murcia",
@@ -1011,17 +1011,17 @@
         "Murcia",
         "Region of Murcia"
       ],
-      "assetName": "countries/es/mc/es-mc-v1.0.0.json.gz"
+      "assetName": "countries/es/mc/es-mc-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 1162,
-      "generatedAt": "2026-10-15T19:12:38.021Z",
-      "sizeBytes": 49725,
-      "uncompressedBytes": 700335,
-      "sha256": "bc06c4c826992ccffc77ae8ac288153b7b503dac13b71846cf970569700a8491",
+      "recordCount": 1183,
+      "generatedAt": "2026-10-28T20:36:25.503Z",
+      "sizeBytes": 50666,
+      "uncompressedBytes": 713240,
+      "sha256": "54da88462c922a8b8d9df8ed9fe759fc8963a803f6a31617f45c3c8839624e95",
       "minAppSchemaVersion": 1,
       "regionCode": "MD",
       "regionName": "Comunidad de Madrid",
@@ -1030,17 +1030,17 @@
         "Madrid",
         "Community of Madrid"
       ],
-      "assetName": "countries/es/md/es-md-v1.0.0.json.gz"
+      "assetName": "countries/es/md/es-md-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 15,
-      "generatedAt": "2026-10-15T19:14:33.425Z",
+      "generatedAt": "2026-10-28T20:38:00.874Z",
       "sizeBytes": 1338,
       "uncompressedBytes": 8833,
-      "sha256": "5234b1d154f861459494a0b3f22d590b7d2d1480fa3afaa32236cdbad3639d79",
+      "sha256": "4e45958b0ca87f59ae0947ff5492f23d6ef6a2cf58771acce615219b133edb39",
       "minAppSchemaVersion": 1,
       "regionCode": "ML",
       "regionName": "Melilla",
@@ -1049,17 +1049,17 @@
         "Ciudad Autónoma de Melilla",
         "Autonomous City of Melilla"
       ],
-      "assetName": "countries/es/ml/es-ml-v1.0.0.json.gz"
+      "assetName": "countries/es/ml/es-ml-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 3508,
-      "generatedAt": "2026-10-15T19:12:58.122Z",
+      "generatedAt": "2026-10-28T20:36:22.365Z",
       "sizeBytes": 136135,
-      "uncompressedBytes": 2201827,
-      "sha256": "a0d8cab4f6b8a8810cb2143c2bd841b0068674ec0563e0310b6ec2386ea235ea",
+      "uncompressedBytes": 2201822,
+      "sha256": "1e30c905ee6b7baa97de3f98375e3a09b7f75bef9fedfae21cca353de90ea98c",
       "minAppSchemaVersion": 1,
       "regionCode": "NC",
       "regionName": "Comunidad Foral de Navarra",
@@ -1069,17 +1069,17 @@
         "Navarre",
         "Nafarroa"
       ],
-      "assetName": "countries/es/nc/es-nc-v1.0.0.json.gz"
+      "assetName": "countries/es/nc/es-nc-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4248,
-      "generatedAt": "2026-10-15T19:12:54.340Z",
-      "sizeBytes": 162890,
-      "uncompressedBytes": 2598428,
-      "sha256": "74ef08ff513010d23e90a0589f927cb16497568822a351b9903dedf8728933eb",
+      "recordCount": 4250,
+      "generatedAt": "2026-10-28T20:36:33.643Z",
+      "sizeBytes": 163046,
+      "uncompressedBytes": 2599961,
+      "sha256": "fe7f2d9102a44ccee55716e62a47faa236accac3000df9389534a756178aa959",
       "minAppSchemaVersion": 1,
       "regionCode": "PV",
       "regionName": "País Vasco",
@@ -1089,34 +1089,34 @@
         "Euskadi",
         "Basque Country"
       ],
-      "assetName": "countries/es/pv/es-pv-v1.0.0.json.gz"
+      "assetName": "countries/es/pv/es-pv-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 1104,
-      "generatedAt": "2026-10-15T19:13:23.911Z",
-      "sizeBytes": 37616,
-      "uncompressedBytes": 627412,
-      "sha256": "225fad4bc0911deed459abf7dfd448fbc1c43f133904419ff09c4a1be0b8354a",
+      "recordCount": 1105,
+      "generatedAt": "2026-10-28T20:37:21.708Z",
+      "sizeBytes": 37703,
+      "uncompressedBytes": 627978,
+      "sha256": "f21686504c53ade730b444580a509afc96b61629da414e4a25305ede06f857f7",
       "minAppSchemaVersion": 1,
       "regionCode": "RI",
       "regionName": "La Rioja",
       "regionAliases": [
         "La Rioja"
       ],
-      "assetName": "countries/es/ri/es-ri-v1.0.0.json.gz"
+      "assetName": "countries/es/ri/es-ri-v1.0.1.json.gz"
     },
     {
       "countryCode": "ES",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 6738,
-      "generatedAt": "2026-10-15T19:14:14.227Z",
-      "sizeBytes": 254039,
-      "uncompressedBytes": 3834563,
-      "sha256": "7c1b184ed810368bd3c2daffac1811335139ded69b9c513714b3e1c4900785a5",
+      "recordCount": 6776,
+      "generatedAt": "2026-10-28T20:37:40.582Z",
+      "sizeBytes": 255671,
+      "uncompressedBytes": 3854938,
+      "sha256": "de429dcf337433d56fe1caa557d25fb7ed1c6084058bec92a08243398d6804b2",
       "minAppSchemaVersion": 1,
       "regionCode": "VC",
       "regionName": "Comunitat Valenciana",
@@ -1126,17 +1126,17 @@
         "Valencian Community",
         "Valencia"
       ],
-      "assetName": "countries/es/vc/es-vc-v1.0.0.json.gz"
+      "assetName": "countries/es/vc/es-vc-v1.0.1.json.gz"
     },
     {
       "countryCode": "IT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 16518,
-      "generatedAt": "2026-10-15T19:04:37.987Z",
-      "sizeBytes": 600325,
-      "uncompressedBytes": 9684697,
-      "sha256": "dadbcdfef068faf4138fc67b26dce43daaa824f40e75451a79f53d5b368dc51d",
+      "recordCount": 16523,
+      "generatedAt": "2026-10-28T20:27:13.190Z",
+      "sizeBytes": 600566,
+      "uncompressedBytes": 9687111,
+      "sha256": "97023f0c7166a829baab8ccbc613b211cc231a760f3050454810ca3dfa4155df",
       "minAppSchemaVersion": 1,
       "regionCode": "CENTRO",
       "regionName": "Centro",
@@ -1147,17 +1147,17 @@
         "Marche",
         "Lazio"
       ],
-      "assetName": "countries/it/centro/it-centro-v1.0.0.json.gz"
+      "assetName": "countries/it/centro/it-centro-v1.0.1.json.gz"
     },
     {
       "countryCode": "IT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 8538,
-      "generatedAt": "2026-10-15T19:06:38.929Z",
-      "sizeBytes": 336248,
-      "uncompressedBytes": 4953675,
-      "sha256": "a16c7a968f868e33fa236675738df6faa3df17b351fa23f9474408e53d5411e4",
+      "recordCount": 8588,
+      "generatedAt": "2026-10-28T20:29:46.654Z",
+      "sizeBytes": 338494,
+      "uncompressedBytes": 4981864,
+      "sha256": "c25d137d801918f336b3d8e4f22a4166df4956e398e43afa98ac11e605b53de3",
       "minAppSchemaVersion": 1,
       "regionCode": "ISOLE",
       "regionName": "Isole",
@@ -1167,17 +1167,17 @@
         "Sardegna",
         "Sardinia"
       ],
-      "assetName": "countries/it/isole/it-isole-v1.0.0.json.gz"
+      "assetName": "countries/it/isole/it-isole-v1.0.1.json.gz"
     },
     {
       "countryCode": "IT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 17678,
-      "generatedAt": "2026-10-15T19:04:38.564Z",
-      "sizeBytes": 717404,
-      "uncompressedBytes": 10426253,
-      "sha256": "7e27c49fe8bb3936072f2eb2e4cc7cfeb7d1f536cfbe4b1a5b3b44698bd21329",
+      "recordCount": 17685,
+      "generatedAt": "2026-10-28T20:27:18.202Z",
+      "sizeBytes": 717869,
+      "uncompressedBytes": 10430036,
+      "sha256": "4a7b9cce960ce03e378f58a9216a7979d22ac073fc50f817313d3eebca0a5495",
       "minAppSchemaVersion": 1,
       "regionCode": "NORD-EST",
       "regionName": "Nord-Est",
@@ -1189,17 +1189,17 @@
         "Friuli-Venezia Giulia",
         "Emilia-Romagna"
       ],
-      "assetName": "countries/it/nord-est/it-nord-est-v1.0.0.json.gz"
+      "assetName": "countries/it/nord-est/it-nord-est-v1.0.1.json.gz"
     },
     {
       "countryCode": "IT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 16895,
-      "generatedAt": "2026-10-15T19:04:32.321Z",
-      "sizeBytes": 682188,
-      "uncompressedBytes": 10201732,
-      "sha256": "5681c311f8e9b20edb5353a7dff067df52af08b82936dc0288105d950157c0e5",
+      "recordCount": 16906,
+      "generatedAt": "2026-10-28T20:27:20.674Z",
+      "sizeBytes": 682848,
+      "uncompressedBytes": 10207633,
+      "sha256": "8e8816a70044bf1367c081cf767293d34486cdc62574b57511694612654f0f9e",
       "minAppSchemaVersion": 1,
       "regionCode": "NORD-OVEST",
       "regionName": "Nord-Ovest",
@@ -1213,17 +1213,17 @@
         "Lombardy",
         "Liguria"
       ],
-      "assetName": "countries/it/nord-ovest/it-nord-ovest-v1.0.0.json.gz"
+      "assetName": "countries/it/nord-ovest/it-nord-ovest-v1.0.1.json.gz"
     },
     {
       "countryCode": "IT",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7854,
-      "generatedAt": "2026-10-15T19:04:35.835Z",
-      "sizeBytes": 308395,
-      "uncompressedBytes": 4715618,
-      "sha256": "304cc363964b3add5c63e4e0b95451d69453d67c26ba8316f843ff1867f6090b",
+      "recordCount": 7879,
+      "generatedAt": "2026-10-28T20:27:23.256Z",
+      "sizeBytes": 309770,
+      "uncompressedBytes": 4730225,
+      "sha256": "abebc4c92a0933338218f519c683774eef07cb22f4ee4148094ed2dfbdf01128",
       "minAppSchemaVersion": 1,
       "regionCode": "SUD",
       "regionName": "Sud",
@@ -1236,17 +1236,17 @@
         "Basilicata",
         "Calabria"
       ],
-      "assetName": "countries/it/sud/it-sud-v1.0.0.json.gz"
+      "assetName": "countries/it/sud/it-sud-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 6076,
-      "generatedAt": "2026-10-15T19:41:39.884Z",
-      "sizeBytes": 242249,
-      "uncompressedBytes": 3305242,
-      "sha256": "3b3174d89c4dc89f8c35fcbad4770900d2c0690104174f286bd1111219f212a9",
+      "recordCount": 6081,
+      "generatedAt": "2026-10-28T21:08:36.909Z",
+      "sizeBytes": 242617,
+      "uncompressedBytes": 3307748,
+      "sha256": "0a5f14b346a791035393bff3e49877b79182bf409190aed210d42f52d0b13268",
       "minAppSchemaVersion": 1,
       "regionCode": "CHUBU",
       "regionName": "Chubu",
@@ -1306,17 +1306,17 @@
         "愛知県",
         "Aichi-ken"
       ],
-      "assetName": "countries/jp/chubu/jp-chubu-v1.0.0.json.gz"
+      "assetName": "countries/jp/chubu/jp-chubu-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 2677,
-      "generatedAt": "2026-10-15T19:43:04.221Z",
-      "sizeBytes": 99794,
-      "uncompressedBytes": 1449347,
-      "sha256": "abc6a334c7c875db9e4fa25cb4ab6f002d66155f8c60477c8fa57b079893fdb8",
+      "generatedAt": "2026-10-28T21:10:28.937Z",
+      "sizeBytes": 99795,
+      "uncompressedBytes": 1449346,
+      "sha256": "78efe63f36d86c0a309f60111f9d2df6506b1b24baf296212105005b31711b74",
       "minAppSchemaVersion": 1,
       "regionCode": "CHUGOKU",
       "regionName": "Chugoku",
@@ -1352,17 +1352,17 @@
         "山口県",
         "Yamaguchi-ken"
       ],
-      "assetName": "countries/jp/chugoku/jp-chugoku-v1.0.0.json.gz"
+      "assetName": "countries/jp/chugoku/jp-chugoku-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2103,
-      "generatedAt": "2026-10-15T19:40:31.473Z",
-      "sizeBytes": 86511,
-      "uncompressedBytes": 1230661,
-      "sha256": "61ca6de91d429e126eccaeaa9105a049c35d5d06455ceddc2ca86ab8edd99f36",
+      "recordCount": 2110,
+      "generatedAt": "2026-10-28T21:07:49.025Z",
+      "sizeBytes": 86926,
+      "uncompressedBytes": 1234967,
+      "sha256": "de0904e2395b51a5eccae60b863fca2700c5244330d13ed6ca25ce18ecb79daf",
       "minAppSchemaVersion": 1,
       "regionCode": "HOKKAIDO",
       "regionName": "Hokkaido",
@@ -1373,17 +1373,17 @@
         "Hokkaido Prefecture",
         "北海道"
       ],
-      "assetName": "countries/jp/hokkaido/jp-hokkaido-v1.0.0.json.gz"
+      "assetName": "countries/jp/hokkaido/jp-hokkaido-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4347,
-      "generatedAt": "2026-10-15T19:42:18.882Z",
-      "sizeBytes": 165822,
-      "uncompressedBytes": 2410066,
-      "sha256": "80996dfdaa7fb705729b3f33fe13eba19a1b816a3062fe4a44683a507c4bc6bc",
+      "recordCount": 4359,
+      "generatedAt": "2026-10-28T21:09:53.334Z",
+      "sizeBytes": 166486,
+      "uncompressedBytes": 2416842,
+      "sha256": "834235d5d6fbe7e3cdd98dc36d94703a8fc3c24068d76533a7227dbbde861500",
       "minAppSchemaVersion": 1,
       "regionCode": "KANSAI",
       "regionName": "Kansai",
@@ -1431,17 +1431,17 @@
         "和歌山県",
         "Wakayama-ken"
       ],
-      "assetName": "countries/jp/kansai/jp-kansai-v1.0.0.json.gz"
+      "assetName": "countries/jp/kansai/jp-kansai-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4363,
-      "generatedAt": "2026-10-15T19:41:19.364Z",
-      "sizeBytes": 184748,
-      "uncompressedBytes": 2424116,
-      "sha256": "10f3156f37c7e746d047806b3cd0d07fc52b49082065739adae52d475fb38ab9",
+      "recordCount": 4366,
+      "generatedAt": "2026-10-28T21:08:04.635Z",
+      "sizeBytes": 185062,
+      "uncompressedBytes": 2425776,
+      "sha256": "61eb3abe1f17607acdf6bd9b0eef6650a2e4ad26d4a59e6398012f5497dfbf68",
       "minAppSchemaVersion": 1,
       "regionCode": "KANTO",
       "regionName": "Kanto",
@@ -1489,17 +1489,17 @@
         "神奈川県",
         "Kanagawa-ken"
       ],
-      "assetName": "countries/jp/kanto/jp-kanto-v1.0.0.json.gz"
+      "assetName": "countries/jp/kanto/jp-kanto-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4530,
-      "generatedAt": "2026-10-15T19:44:08.746Z",
-      "sizeBytes": 180814,
-      "uncompressedBytes": 2586673,
-      "sha256": "b4886d6f2b37580f9066055c60584d0cc4e394b0f4983f3c20ccfe7dca2a465c",
+      "recordCount": 4558,
+      "generatedAt": "2026-10-28T21:11:18.963Z",
+      "sizeBytes": 182047,
+      "uncompressedBytes": 2601199,
+      "sha256": "61455d10a82c40d111244b1ad95489828703668bb4fc337670c8cc7946037002",
       "minAppSchemaVersion": 1,
       "regionCode": "KYUSHU",
       "regionName": "Kyushu",
@@ -1553,17 +1553,17 @@
         "沖縄県",
         "Okinawa-ken"
       ],
-      "assetName": "countries/jp/kyushu/jp-kyushu-v1.0.0.json.gz"
+      "assetName": "countries/jp/kyushu/jp-kyushu-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1682,
-      "generatedAt": "2026-10-15T19:43:58.921Z",
-      "sizeBytes": 66438,
-      "uncompressedBytes": 930203,
-      "sha256": "35577d7d9f0a81ffad445f425308b991f126cb6ff1136ef9ab33d5cd713a1f1b",
+      "generatedAt": "2026-10-28T21:10:49.682Z",
+      "sizeBytes": 66440,
+      "uncompressedBytes": 930196,
+      "sha256": "887f0bb38a33c63de6c993a563f44c7688ab4291b92ff7bf6d33ca4b8443fa6e",
       "minAppSchemaVersion": 1,
       "regionCode": "SHIKOKU",
       "regionName": "Shikoku",
@@ -1593,17 +1593,17 @@
         "高知県",
         "Kochi-ken"
       ],
-      "assetName": "countries/jp/shikoku/jp-shikoku-v1.0.0.json.gz"
+      "assetName": "countries/jp/shikoku/jp-shikoku-v1.0.1.json.gz"
     },
     {
       "countryCode": "JP",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4591,
-      "generatedAt": "2026-10-15T19:40:46.528Z",
-      "sizeBytes": 170268,
-      "uncompressedBytes": 2589901,
-      "sha256": "d243b29adeb09af8e5aba5c04ae55323844e0cb2837d5bfdb4b8582e4d4b89b4",
+      "recordCount": 4598,
+      "generatedAt": "2026-10-28T21:08:00.303Z",
+      "sizeBytes": 170656,
+      "uncompressedBytes": 2593392,
+      "sha256": "d02d03663c26e58fd42f307afa8e3fbf15e39ae469947d240481f2f34ecb93da",
       "minAppSchemaVersion": 1,
       "regionCode": "TOHOKU",
       "regionName": "Tohoku",
@@ -1645,874 +1645,874 @@
         "福島県",
         "Fukushima-ken"
       ],
-      "assetName": "countries/jp/tohoku/jp-tohoku-v1.0.0.json.gz"
+      "assetName": "countries/jp/tohoku/jp-tohoku-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7091,
-      "generatedAt": "2026-10-15T19:15:35.853Z",
-      "sizeBytes": 284543,
-      "uncompressedBytes": 5449184,
-      "sha256": "fc55fec7cb672f75ea7936cc9f1e9fd3c665fad8ffd00181ecadbc715e2cfd41",
+      "recordCount": 7095,
+      "generatedAt": "2026-10-28T20:39:24.799Z",
+      "sizeBytes": 284958,
+      "uncompressedBytes": 5452731,
+      "sha256": "b060f8ae868a30e7de390202afcf8a2b2b03d7361520ecab09e7495d17084173",
       "minAppSchemaVersion": 1,
       "regionCode": "AK",
       "regionName": "Alaska",
       "regionAliases": [
         "Alaska"
       ],
-      "assetName": "countries/us/ak/us-ak-v1.0.0.json.gz"
+      "assetName": "countries/us/ak/us-ak-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2806,
-      "generatedAt": "2026-10-15T19:14:46.970Z",
-      "sizeBytes": 102526,
-      "uncompressedBytes": 1625889,
-      "sha256": "23670627aee3a6dd92f1602c4c263ba77e1384f8ca0666e0f174015565854b08",
+      "recordCount": 2817,
+      "generatedAt": "2026-10-28T20:38:51.915Z",
+      "sizeBytes": 103062,
+      "uncompressedBytes": 1631833,
+      "sha256": "afb761e62cedcf99158a70ed36e0aec3aab8b711e427d3806431c96e2814aab0",
       "minAppSchemaVersion": 1,
       "regionCode": "AL",
       "regionName": "Alabama",
       "regionAliases": [
         "Alabama"
       ],
-      "assetName": "countries/us/al/us-al-v1.0.0.json.gz"
+      "assetName": "countries/us/al/us-al-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3023,
-      "generatedAt": "2026-10-15T19:16:00.383Z",
-      "sizeBytes": 104986,
-      "uncompressedBytes": 1738644,
-      "sha256": "9dd77bcec7e20a8653c508fa30c74a144fc9e12a4071e268feb2408b361ca3a3",
+      "recordCount": 3025,
+      "generatedAt": "2026-10-28T20:39:30.496Z",
+      "sizeBytes": 105143,
+      "uncompressedBytes": 1739704,
+      "sha256": "b2ca7ea754280e48e5bb4cd72707d5431226574e05256701f5682aa75520350a",
       "minAppSchemaVersion": 1,
       "regionCode": "AR",
       "regionName": "Arkansas",
       "regionAliases": [
         "Arkansas"
       ],
-      "assetName": "countries/us/ar/us-ar-v1.0.0.json.gz"
+      "assetName": "countries/us/ar/us-ar-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 14534,
-      "generatedAt": "2026-10-15T19:15:49.815Z",
-      "sizeBytes": 508260,
-      "uncompressedBytes": 9121219,
-      "sha256": "bccdf7e4f3e0936807174d60b6df9ecbe1637c6c86b75078bc668e70fb4f4ca7",
+      "recordCount": 14542,
+      "generatedAt": "2026-10-28T20:39:21.259Z",
+      "sizeBytes": 508825,
+      "uncompressedBytes": 9126666,
+      "sha256": "52867e5eefc04c328b85ef7c5da30030c25496d411469704108cb39c691b293a",
       "minAppSchemaVersion": 1,
       "regionCode": "AZ",
       "regionName": "Arizona",
       "regionAliases": [
         "Arizona"
       ],
-      "assetName": "countries/us/az/us-az-v1.0.0.json.gz"
+      "assetName": "countries/us/az/us-az-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 20262,
-      "generatedAt": "2026-10-15T19:16:23.268Z",
-      "sizeBytes": 931786,
-      "uncompressedBytes": 14532910,
-      "sha256": "380b654d48e0aafeafd7998b29b2400681649792dbe0aceeb5c43c694a9888ea",
+      "recordCount": 20276,
+      "generatedAt": "2026-10-28T20:40:41.685Z",
+      "sizeBytes": 932740,
+      "uncompressedBytes": 14543318,
+      "sha256": "8fd18cb042cad90ef5604c90abed1f4fde8f0a21dda41308dcec42abb9d539d3",
       "minAppSchemaVersion": 1,
       "regionCode": "CA",
       "regionName": "California",
       "regionAliases": [
         "California"
       ],
-      "assetName": "countries/us/ca/us-ca-v1.0.0.json.gz"
+      "assetName": "countries/us/ca/us-ca-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 9184,
-      "generatedAt": "2026-10-15T19:17:28.577Z",
-      "sizeBytes": 369214,
-      "uncompressedBytes": 6944095,
-      "sha256": "eecec2a16d6134145666a210edec6c3945a086d60ce8ba8b85e81fb5ad4d2847",
+      "recordCount": 9192,
+      "generatedAt": "2026-10-28T20:41:23.904Z",
+      "sizeBytes": 369745,
+      "uncompressedBytes": 6950808,
+      "sha256": "d99f3057c749125e9673378bf48b8659fdff2e97e1eaebd52a116f72db9e4b40",
       "minAppSchemaVersion": 1,
       "regionCode": "CO",
       "regionName": "Colorado",
       "regionAliases": [
         "Colorado"
       ],
-      "assetName": "countries/us/co/us-co-v1.0.0.json.gz"
+      "assetName": "countries/us/co/us-co-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7753,
-      "generatedAt": "2026-10-15T19:17:39.441Z",
-      "sizeBytes": 345139,
-      "uncompressedBytes": 5235577,
-      "sha256": "7792f3361900fecdb9a30ad2bd9720cfc60c9c129e4b5b4ef1a2e773b719615f",
+      "recordCount": 7754,
+      "generatedAt": "2026-10-28T20:42:03.148Z",
+      "sizeBytes": 345333,
+      "uncompressedBytes": 5235972,
+      "sha256": "5126962423da7e5c78530effe346aa218a9a7d98a1845557ba2feee95e9ff089",
       "minAppSchemaVersion": 1,
       "regionCode": "CT",
       "regionName": "Connecticut",
       "regionAliases": [
         "Connecticut"
       ],
-      "assetName": "countries/us/ct/us-ct-v1.0.0.json.gz"
+      "assetName": "countries/us/ct/us-ct-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 250,
-      "generatedAt": "2026-10-15T19:19:12.915Z",
-      "sizeBytes": 12985,
-      "uncompressedBytes": 166227,
-      "sha256": "e9d28484e79be27534d7fa1928af1d848008e5fc607d9ca3d9c7ca6ceadf947b",
+      "recordCount": 251,
+      "generatedAt": "2026-10-28T20:43:46.773Z",
+      "sizeBytes": 13040,
+      "uncompressedBytes": 166782,
+      "sha256": "4f20fc4f1fded4b41c5c98d27461cef68004a8c9ae25bff23da361d7d2ee276a",
       "minAppSchemaVersion": 1,
       "regionCode": "DC",
       "regionName": "District of Columbia",
       "regionAliases": [
         "District of Columbia"
       ],
-      "assetName": "countries/us/dc/us-dc-v1.0.0.json.gz"
+      "assetName": "countries/us/dc/us-dc-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 300,
-      "generatedAt": "2026-10-15T19:17:54.306Z",
+      "generatedAt": "2026-10-28T20:42:11.194Z",
       "sizeBytes": 15831,
       "uncompressedBytes": 206973,
-      "sha256": "2046ac28fc924693b530ac200d41fd63304544b4555ba7fafeaf1ab59008bab1",
+      "sha256": "e816d08fbabf39c6f43a483d710033f687c74444f65faa39af37b817dbe54a29",
       "minAppSchemaVersion": 1,
       "regionCode": "DE",
       "regionName": "Delaware",
       "regionAliases": [
         "Delaware"
       ],
-      "assetName": "countries/us/de/us-de-v1.0.0.json.gz"
+      "assetName": "countries/us/de/us-de-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5686,
-      "generatedAt": "2026-10-15T19:19:58.271Z",
-      "sizeBytes": 243276,
-      "uncompressedBytes": 3668686,
-      "sha256": "a7ecf76599040475262ba336928c2cca1b80db3887afef12a7debbbbfb8e4dc8",
+      "recordCount": 5696,
+      "generatedAt": "2026-10-28T20:44:07.482Z",
+      "sizeBytes": 243781,
+      "uncompressedBytes": 3674029,
+      "sha256": "cdad263699ac49a8c77f5a779878c009f9359d98720314cbbeb32ca9c042b758",
       "minAppSchemaVersion": 1,
       "regionCode": "FL",
       "regionName": "Florida",
       "regionAliases": [
         "Florida"
       ],
-      "assetName": "countries/us/fl/us-fl-v1.0.0.json.gz"
+      "assetName": "countries/us/fl/us-fl-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4982,
-      "generatedAt": "2026-10-15T19:20:38.844Z",
-      "sizeBytes": 177007,
-      "uncompressedBytes": 2964524,
-      "sha256": "bb01292fc3ea6be4440c75261b46ac47117753a5bca0efe8368a31ad3c638da3",
+      "recordCount": 4993,
+      "generatedAt": "2026-10-28T20:44:19.365Z",
+      "sizeBytes": 177460,
+      "uncompressedBytes": 2970751,
+      "sha256": "a9a9d3e652c09844c281b1d6e491d28b7542f8d8b7766140eb6ec7f2d8b4ef84",
       "minAppSchemaVersion": 1,
       "regionCode": "GA",
       "regionName": "Georgia",
       "regionAliases": [
         "Georgia"
       ],
-      "assetName": "countries/us/ga/us-ga-v1.0.0.json.gz"
+      "assetName": "countries/us/ga/us-ga-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2162,
-      "generatedAt": "2026-10-15T19:20:32.784Z",
-      "sizeBytes": 89621,
-      "uncompressedBytes": 1496540,
-      "sha256": "42f6bfffad3a8d7d4a71c195707d24fd553cbeb62ce240537d0846afa8e15884",
+      "recordCount": 2163,
+      "generatedAt": "2026-10-28T20:45:20.256Z",
+      "sizeBytes": 89739,
+      "uncompressedBytes": 1497316,
+      "sha256": "354312a0ec17fb4385d84d2fc30476d5a40f48adcea935b0e2652006aec7e31b",
       "minAppSchemaVersion": 1,
       "regionCode": "HI",
       "regionName": "Hawaii",
       "regionAliases": [
         "Hawaii"
       ],
-      "assetName": "countries/us/hi/us-hi-v1.0.0.json.gz"
+      "assetName": "countries/us/hi/us-hi-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 3200,
-      "generatedAt": "2026-10-15T19:23:24.451Z",
-      "sizeBytes": 137141,
-      "uncompressedBytes": 1949942,
-      "sha256": "072e9d081516bf0caf6e4fbcd2d7081a24fe25913fcb99b9998cae3af9e44cb0",
+      "generatedAt": "2026-10-28T20:47:23.625Z",
+      "sizeBytes": 137258,
+      "uncompressedBytes": 1950087,
+      "sha256": "3082875f02fa00714a4a91d83f20c9a7fa3b1f34b977c50b16f959323c533ecb",
       "minAppSchemaVersion": 1,
       "regionCode": "IA",
       "regionName": "Iowa",
       "regionAliases": [
         "Iowa"
       ],
-      "assetName": "countries/us/ia/us-ia-v1.0.0.json.gz"
+      "assetName": "countries/us/ia/us-ia-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5262,
-      "generatedAt": "2026-10-15T19:21:42.013Z",
-      "sizeBytes": 201431,
-      "uncompressedBytes": 3530127,
-      "sha256": "3bfba7543b8ac36fbac9a2c190ddf79b756449428534164685cf9bafdee1c4fc",
+      "recordCount": 5264,
+      "generatedAt": "2026-10-28T20:45:38.385Z",
+      "sizeBytes": 201679,
+      "uncompressedBytes": 3531410,
+      "sha256": "e608457ee1b7dd1c1079221ee833289df9604a8f4f9116db14391e5da91da16a",
       "minAppSchemaVersion": 1,
       "regionCode": "ID",
       "regionName": "Idaho",
       "regionAliases": [
         "Idaho"
       ],
-      "assetName": "countries/us/id/us-id-v1.0.0.json.gz"
+      "assetName": "countries/us/id/us-id-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5171,
-      "generatedAt": "2026-10-15T19:22:42.840Z",
-      "sizeBytes": 215638,
-      "uncompressedBytes": 3052934,
-      "sha256": "70a597a3873f2c03b4cfc6a50906bfed9ae9497ce63cc420e79e3847a7c4fe21",
+      "recordCount": 5197,
+      "generatedAt": "2026-10-28T20:46:42.398Z",
+      "sizeBytes": 216982,
+      "uncompressedBytes": 3068542,
+      "sha256": "0bd52b26abbb54ade9d221fea779f56c7edd1b4e3d6ea2bfe89dc738f845bf9e",
       "minAppSchemaVersion": 1,
       "regionCode": "IL",
       "regionName": "Illinois",
       "regionAliases": [
         "Illinois"
       ],
-      "assetName": "countries/us/il/us-il-v1.0.0.json.gz"
+      "assetName": "countries/us/il/us-il-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2881,
-      "generatedAt": "2026-10-15T19:23:16.685Z",
-      "sizeBytes": 114614,
-      "uncompressedBytes": 1704977,
-      "sha256": "0f2922723ad07e9631be38faf566b70e7d08e521649c62ac8e88f456ca5076dc",
+      "recordCount": 2882,
+      "generatedAt": "2026-10-28T20:46:36.129Z",
+      "sizeBytes": 114709,
+      "uncompressedBytes": 1705578,
+      "sha256": "81d81daa53f37d9cd94fb570ab3a4703f013f2bfc8a49048fe6f87326c81cc3d",
       "minAppSchemaVersion": 1,
       "regionCode": "IN",
       "regionName": "Indiana",
       "regionAliases": [
         "Indiana"
       ],
-      "assetName": "countries/us/in/us-in-v1.0.0.json.gz"
+      "assetName": "countries/us/in/us-in-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1063,
-      "generatedAt": "2026-10-15T19:24:32.332Z",
+      "generatedAt": "2026-10-28T20:47:33.925Z",
       "sizeBytes": 45851,
       "uncompressedBytes": 612284,
-      "sha256": "1bdf7deb09e07dfaf086b44948a547fe46462bfd492816895a2d31ddc9d167f9",
+      "sha256": "36bb11fa4cbc60e52f530f6f0128bb5aae69d3901a0a5b0d500235309cf839ba",
       "minAppSchemaVersion": 1,
       "regionCode": "KS",
       "regionName": "Kansas",
       "regionAliases": [
         "Kansas"
       ],
-      "assetName": "countries/us/ks/us-ks-v1.0.0.json.gz"
+      "assetName": "countries/us/ks/us-ks-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2858,
-      "generatedAt": "2026-10-15T21:31:17.557Z",
-      "sizeBytes": 98136,
-      "uncompressedBytes": 1652499,
-      "sha256": "0f27b6f4f0fe2fecec992e6cf88c39edc5618f43376fe6697d2372e78a60ef83",
+      "recordCount": 2862,
+      "generatedAt": "2026-10-28T20:48:54.525Z",
+      "sizeBytes": 98401,
+      "uncompressedBytes": 1655312,
+      "sha256": "a36a3ec97e2dae121282df6b28c21355d7e589422706faa50ba006af051e42d1",
       "minAppSchemaVersion": 1,
       "regionCode": "KY",
       "regionName": "Kentucky",
       "regionAliases": [
         "Kentucky"
       ],
-      "assetName": "countries/us/ky/us-ky-v1.0.0.json.gz"
+      "assetName": "countries/us/ky/us-ky-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1280,
-      "generatedAt": "2026-10-15T19:24:59.434Z",
-      "sizeBytes": 48086,
-      "uncompressedBytes": 764076,
-      "sha256": "c6a4d68ae8705a9cfc5629dda0b9572aae8c0627f9131978f6b9f7a63591613a",
+      "generatedAt": "2026-10-28T20:48:52.265Z",
+      "sizeBytes": 48082,
+      "uncompressedBytes": 764057,
+      "sha256": "5bb549b6f03e3a73cc41f26462aa9f155bdbf0964895380534a1a154569ba3ce",
       "minAppSchemaVersion": 1,
       "regionCode": "LA",
       "regionName": "Louisiana",
       "regionAliases": [
         "Louisiana"
       ],
-      "assetName": "countries/us/la/us-la-v1.0.0.json.gz"
+      "assetName": "countries/us/la/us-la-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 16670,
-      "generatedAt": "2026-10-15T19:26:22.664Z",
-      "sizeBytes": 703905,
-      "uncompressedBytes": 10961494,
-      "sha256": "9e2035e9c8ebc0f40141665a18727994cb89a9c94e035d8d65e66b63cbe3eb52",
+      "recordCount": 16702,
+      "generatedAt": "2026-10-28T20:50:36.671Z",
+      "sizeBytes": 705525,
+      "uncompressedBytes": 10983156,
+      "sha256": "6e4844e36c6fc112be92a65b8b6c2e21d6bcf566c7ddb181622f5e24a54d4969",
       "minAppSchemaVersion": 1,
       "regionCode": "MA",
       "regionName": "Massachusetts",
       "regionAliases": [
         "Massachusetts"
       ],
-      "assetName": "countries/us/ma/us-ma-v1.0.0.json.gz"
+      "assetName": "countries/us/ma/us-ma-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3257,
-      "generatedAt": "2026-10-15T19:26:09.473Z",
-      "sizeBytes": 155389,
-      "uncompressedBytes": 2408613,
-      "sha256": "427f4641e21f4d580c105fc246dd7f90e62b47871cb591a91787efc184bb9ef2",
+      "recordCount": 3259,
+      "generatedAt": "2026-10-28T20:49:10.625Z",
+      "sizeBytes": 155605,
+      "uncompressedBytes": 2408504,
+      "sha256": "f17694f4251abf7ba6d1d69fc80ce1e3fad4cb8ee8e5dff203fe5d756d382c29",
       "minAppSchemaVersion": 1,
       "regionCode": "MD",
       "regionName": "Maryland",
       "regionAliases": [
         "Maryland"
       ],
-      "assetName": "countries/us/md/us-md-v1.0.0.json.gz"
+      "assetName": "countries/us/md/us-md-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 8168,
-      "generatedAt": "2026-10-15T19:25:00.840Z",
-      "sizeBytes": 310660,
-      "uncompressedBytes": 5390342,
-      "sha256": "49c07a7c7a1b306e551995886e6ab2bb9bdbfae1a8f9e26ef21693c4f9367e83",
+      "recordCount": 8170,
+      "generatedAt": "2026-10-28T20:49:36.246Z",
+      "sizeBytes": 311104,
+      "uncompressedBytes": 5392403,
+      "sha256": "8746aec3ac7c20b903f9b88ea93438ee0be0c1d34784f5fedce83d6c0ba36f74",
       "minAppSchemaVersion": 1,
       "regionCode": "ME",
       "regionName": "Maine",
       "regionAliases": [
         "Maine"
       ],
-      "assetName": "countries/us/me/us-me-v1.0.0.json.gz"
+      "assetName": "countries/us/me/us-me-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 10837,
-      "generatedAt": "2026-10-15T19:26:29.869Z",
-      "sizeBytes": 467488,
-      "uncompressedBytes": 7664571,
-      "sha256": "36b54beb98dab0a032b3c239e5a5747236bb4224d7535127a162420866acbaf3",
+      "recordCount": 10840,
+      "generatedAt": "2026-10-28T20:51:13.005Z",
+      "sizeBytes": 467627,
+      "uncompressedBytes": 7665984,
+      "sha256": "04c63cb6ba5407e54dab0f6549acb45907ffebaa12129396dca1fe03da99a519",
       "minAppSchemaVersion": 1,
       "regionCode": "MI",
       "regionName": "Michigan",
       "regionAliases": [
         "Michigan"
       ],
-      "assetName": "countries/us/mi/us-mi-v1.0.0.json.gz"
+      "assetName": "countries/us/mi/us-mi-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 6227,
-      "generatedAt": "2026-10-15T19:26:32.705Z",
-      "sizeBytes": 220264,
-      "uncompressedBytes": 3951427,
-      "sha256": "2b37e372ece6eebd632a25513c6fb99f7e9d5d57be923d2bc5f2852511263454",
+      "recordCount": 6263,
+      "generatedAt": "2026-10-28T20:51:07.672Z",
+      "sizeBytes": 222299,
+      "uncompressedBytes": 3977019,
+      "sha256": "d6af93dfd32ae1d4da87941343e8ff7657729919a541f2d69393d4f0cfb22d2d",
       "minAppSchemaVersion": 1,
       "regionCode": "MN",
       "regionName": "Minnesota",
       "regionAliases": [
         "Minnesota"
       ],
-      "assetName": "countries/us/mn/us-mn-v1.0.0.json.gz"
+      "assetName": "countries/us/mn/us-mn-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3977,
-      "generatedAt": "2026-10-15T19:28:58.213Z",
-      "sizeBytes": 163610,
-      "uncompressedBytes": 2658415,
-      "sha256": "81c05ab234dc5fb3a3b9ef0378f7a69646886a34c548ccc39762dbda251aec79",
+      "recordCount": 3983,
+      "generatedAt": "2026-10-28T20:52:46.613Z",
+      "sizeBytes": 163980,
+      "uncompressedBytes": 2661846,
+      "sha256": "7d489dcd036bacaabf7cae09a3e3b06b384ac72eec5c08dc121140f3a6ff27ec",
       "minAppSchemaVersion": 1,
       "regionCode": "MO",
       "regionName": "Missouri",
       "regionAliases": [
         "Missouri"
       ],
-      "assetName": "countries/us/mo/us-mo-v1.0.0.json.gz"
+      "assetName": "countries/us/mo/us-mo-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 887,
-      "generatedAt": "2026-10-15T19:28:20.711Z",
-      "sizeBytes": 33888,
-      "uncompressedBytes": 501825,
-      "sha256": "5644260e5658ba13c21b67d0abf0767d920a43adb17c1c5b500fda873ce5efb7",
+      "recordCount": 889,
+      "generatedAt": "2026-10-28T20:51:25.309Z",
+      "sizeBytes": 34045,
+      "uncompressedBytes": 503010,
+      "sha256": "f661da5a9fa6ed5d469d6581565be63f794fb9207a8f92734a8199b726926ddc",
       "minAppSchemaVersion": 1,
       "regionCode": "MS",
       "regionName": "Mississippi",
       "regionAliases": [
         "Mississippi"
       ],
-      "assetName": "countries/us/ms/us-ms-v1.0.0.json.gz"
+      "assetName": "countries/us/ms/us-ms-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7792,
-      "generatedAt": "2026-10-15T19:28:47.236Z",
-      "sizeBytes": 258839,
-      "uncompressedBytes": 4798572,
-      "sha256": "dccba21f1c9ed6e91b14059ccc3062caa9e73a38493f51165c3e99ba197062bf",
+      "recordCount": 7798,
+      "generatedAt": "2026-10-28T20:53:11.369Z",
+      "sizeBytes": 259232,
+      "uncompressedBytes": 4801844,
+      "sha256": "5c55e15aa59053e530d636a258b23d346a15421ee89698fee43e66b29616167c",
       "minAppSchemaVersion": 1,
       "regionCode": "MT",
       "regionName": "Montana",
       "regionAliases": [
         "Montana"
       ],
-      "assetName": "countries/us/mt/us-mt-v1.0.0.json.gz"
+      "assetName": "countries/us/mt/us-mt-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 7353,
-      "generatedAt": "2026-10-15T19:31:41.957Z",
-      "sizeBytes": 270422,
-      "uncompressedBytes": 4604278,
-      "sha256": "4233f20e4ff05e939fb1d25ad96799942161849b9114a4f12c889ec22b464715",
+      "recordCount": 7359,
+      "generatedAt": "2026-10-28T20:56:38.982Z",
+      "sizeBytes": 270933,
+      "uncompressedBytes": 4608578,
+      "sha256": "1d6b2cc6e42b907969df9080bfd6161d5de81386befbcd4cc6344eb5e398fee9",
       "minAppSchemaVersion": 1,
       "regionCode": "NC",
       "regionName": "North Carolina",
       "regionAliases": [
         "North Carolina"
       ],
-      "assetName": "countries/us/nc/us-nc-v1.0.0.json.gz"
+      "assetName": "countries/us/nc/us-nc-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 1045,
-      "generatedAt": "2026-10-15T19:32:17.826Z",
+      "generatedAt": "2026-10-28T20:56:59.658Z",
       "sizeBytes": 39217,
       "uncompressedBytes": 617906,
-      "sha256": "806e44678b75ef471f7377d872961ec8e94c79aeb7b0534ebaaceba3a2e44dd0",
+      "sha256": "56c36838c36437692a54d43240a5e63edbf4c2485b123642d87a380060dcd40c",
       "minAppSchemaVersion": 1,
       "regionCode": "ND",
       "regionName": "North Dakota",
       "regionAliases": [
         "North Dakota"
       ],
-      "assetName": "countries/us/nd/us-nd-v1.0.0.json.gz"
+      "assetName": "countries/us/nd/us-nd-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3362,
-      "generatedAt": "2026-10-15T19:28:54.995Z",
-      "sizeBytes": 121616,
-      "uncompressedBytes": 1944641,
-      "sha256": "69ad3ffad23767e12ac550afdc8b1cd3118a64ce4827ec48a79905b87922c9d0",
+      "recordCount": 3366,
+      "generatedAt": "2026-10-28T20:53:33.245Z",
+      "sizeBytes": 121809,
+      "uncompressedBytes": 1946740,
+      "sha256": "a1d1aaea3951c0091eb1c53d6f8bf98ff7de93f997839a1f37aad3dabfb89c2d",
       "minAppSchemaVersion": 1,
       "regionCode": "NE",
       "regionName": "Nebraska",
       "regionAliases": [
         "Nebraska"
       ],
-      "assetName": "countries/us/ne/us-ne-v1.0.0.json.gz"
+      "assetName": "countries/us/ne/us-ne-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 6135,
-      "generatedAt": "2026-10-15T19:30:19.581Z",
-      "sizeBytes": 232797,
-      "uncompressedBytes": 3660816,
-      "sha256": "9af4a07a95f1496792e3e231945fac764d211651e4a80516f0ce05a1e5930ace",
+      "recordCount": 6137,
+      "generatedAt": "2026-10-28T20:54:57.669Z",
+      "sizeBytes": 233061,
+      "uncompressedBytes": 3661984,
+      "sha256": "1785d03457743adf4f402d94fe1a06443dc34c43c2953edfbeb18b29c69f6383",
       "minAppSchemaVersion": 1,
       "regionCode": "NH",
       "regionName": "New Hampshire",
       "regionAliases": [
         "New Hampshire"
       ],
-      "assetName": "countries/us/nh/us-nh-v1.0.0.json.gz"
+      "assetName": "countries/us/nh/us-nh-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2866,
-      "generatedAt": "2026-10-15T19:30:39.882Z",
-      "sizeBytes": 129780,
-      "uncompressedBytes": 1891728,
-      "sha256": "ea55d0b1c12d17adfccc4952edf211030f569693b7d003d625a79a46b5f484c8",
+      "recordCount": 2869,
+      "generatedAt": "2026-10-28T20:55:17.203Z",
+      "sizeBytes": 130100,
+      "uncompressedBytes": 1894019,
+      "sha256": "c2a07709d25cf85bf61d04d166a807e7a4ae53d8e9a66c7c3f721dcd33d63b07",
       "minAppSchemaVersion": 1,
       "regionCode": "NJ",
       "regionName": "New Jersey",
       "regionAliases": [
         "New Jersey"
       ],
-      "assetName": "countries/us/nj/us-nj-v1.0.0.json.gz"
+      "assetName": "countries/us/nj/us-nj-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 6304,
-      "generatedAt": "2026-10-15T19:30:59.111Z",
-      "sizeBytes": 249533,
-      "uncompressedBytes": 4160549,
-      "sha256": "7cfbdd63456daca3f5f70b45f5b801c344d6d5177634dcd1d7e58a0834b093fe",
+      "recordCount": 6472,
+      "generatedAt": "2026-10-28T20:56:30.924Z",
+      "sizeBytes": 255718,
+      "uncompressedBytes": 4274926,
+      "sha256": "e7cebe73c4caf10af8dd41c0a271bcedf76eb594468ee6a13e4b64fdb52a17da",
       "minAppSchemaVersion": 1,
       "regionCode": "NM",
       "regionName": "New Mexico",
       "regionAliases": [
         "New Mexico"
       ],
-      "assetName": "countries/us/nm/us-nm-v1.0.0.json.gz"
+      "assetName": "countries/us/nm/us-nm-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3357,
-      "generatedAt": "2026-10-15T19:29:55.916Z",
-      "sizeBytes": 128647,
-      "uncompressedBytes": 1963559,
-      "sha256": "f5eea32c6fee0bb26e1272d451ca59867639237b2b5708e1cf89a19e1b604768",
+      "recordCount": 3364,
+      "generatedAt": "2026-10-28T20:54:35.732Z",
+      "sizeBytes": 129000,
+      "uncompressedBytes": 1967780,
+      "sha256": "82abf73ec3574d86041b219d6566f1c512d10446f640dd0d7aab22f57f09364d",
       "minAppSchemaVersion": 1,
       "regionCode": "NV",
       "regionName": "Nevada",
       "regionAliases": [
         "Nevada"
       ],
-      "assetName": "countries/us/nv/us-nv-v1.0.0.json.gz"
+      "assetName": "countries/us/nv/us-nv-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 13217,
-      "generatedAt": "2026-10-15T19:31:33.033Z",
-      "sizeBytes": 576678,
-      "uncompressedBytes": 8807599,
-      "sha256": "76f1a896ddb930d647984967ed96035da3d87ed719c90a9deef4091214a2e076",
+      "recordCount": 13221,
+      "generatedAt": "2026-10-28T20:56:30.530Z",
+      "sizeBytes": 577108,
+      "uncompressedBytes": 8810305,
+      "sha256": "f6e6e0216bcd2a5fa358af2b69b33cfe7d0c8f7024eefa6f50d50a00ac1c2fad",
       "minAppSchemaVersion": 1,
       "regionCode": "NY",
       "regionName": "New York",
       "regionAliases": [
         "New York"
       ],
-      "assetName": "countries/us/ny/us-ny-v1.0.0.json.gz"
+      "assetName": "countries/us/ny/us-ny-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 3963,
-      "generatedAt": "2026-10-15T19:32:47.698Z",
-      "sizeBytes": 169694,
-      "uncompressedBytes": 2341500,
-      "sha256": "59399aee192db46a0d4e703693671adb81989999e960ae9a3077b45d37dfb923",
+      "recordCount": 3968,
+      "generatedAt": "2026-10-28T20:58:06.117Z",
+      "sizeBytes": 170082,
+      "uncompressedBytes": 2344585,
+      "sha256": "cdc41b98d1681662620e45b1187dcc4e51cff2349585505c368b150cde8cf54d",
       "minAppSchemaVersion": 1,
       "regionCode": "OH",
       "regionName": "Ohio",
       "regionAliases": [
         "Ohio"
       ],
-      "assetName": "countries/us/oh/us-oh-v1.0.0.json.gz"
+      "assetName": "countries/us/oh/us-oh-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2807,
-      "generatedAt": "2026-10-15T19:33:53.670Z",
-      "sizeBytes": 96492,
-      "uncompressedBytes": 1518839,
-      "sha256": "367d2117c1f80e122468acbf5bc69c1349ce1bbad2fe5de2f238bbee8e70954d",
+      "recordCount": 2828,
+      "generatedAt": "2026-10-28T20:58:41.968Z",
+      "sizeBytes": 97356,
+      "uncompressedBytes": 1529761,
+      "sha256": "69c8ad3485cfc9ea5761f034528b34becfef64c00916e800a9e2fc08b6156be4",
       "minAppSchemaVersion": 1,
       "regionCode": "OK",
       "regionName": "Oklahoma",
       "regionAliases": [
         "Oklahoma"
       ],
-      "assetName": "countries/us/ok/us-ok-v1.0.0.json.gz"
+      "assetName": "countries/us/ok/us-ok-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 9830,
-      "generatedAt": "2026-10-15T19:33:40.991Z",
-      "sizeBytes": 398328,
-      "uncompressedBytes": 6339773,
-      "sha256": "ae45bced634e5d0c6b9de5afca3126539f72daf30f3a39db6ef91435dd16fa7e",
+      "recordCount": 9840,
+      "generatedAt": "2026-10-28T20:59:15.660Z",
+      "sizeBytes": 399305,
+      "uncompressedBytes": 6353241,
+      "sha256": "275f31a1386bb4f7f0d8ff68d9f04c689a5cf787b7b8ee9d107d12ac6f6b9e1f",
       "minAppSchemaVersion": 1,
       "regionCode": "OR",
       "regionName": "Oregon",
       "regionAliases": [
         "Oregon"
       ],
-      "assetName": "countries/us/or/us-or-v1.0.0.json.gz"
+      "assetName": "countries/us/or/us-or-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5674,
-      "generatedAt": "2026-10-15T19:34:05.848Z",
-      "sizeBytes": 255738,
-      "uncompressedBytes": 3778056,
-      "sha256": "ea6893773628d63b798b99e1ad6586331c5d478393554e80a5d3b71d05b1f544",
+      "recordCount": 5679,
+      "generatedAt": "2026-10-28T20:59:19.332Z",
+      "sizeBytes": 256379,
+      "uncompressedBytes": 3784478,
+      "sha256": "4b117d55299a53337acee437490229b43b73b87997272df53c250af7a4a4110a",
       "minAppSchemaVersion": 1,
       "regionCode": "PA",
       "regionName": "Pennsylvania",
       "regionAliases": [
         "Pennsylvania"
       ],
-      "assetName": "countries/us/pa/us-pa-v1.0.0.json.gz"
+      "assetName": "countries/us/pa/us-pa-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 1003,
-      "generatedAt": "2026-10-15T19:35:21.862Z",
-      "sizeBytes": 41683,
-      "uncompressedBytes": 606317,
-      "sha256": "8e074aa7bc44f0ded345a0ac816d018f65dd2accddeb9650b6543a23d656bde9",
+      "recordCount": 1089,
+      "generatedAt": "2026-10-28T21:00:16.635Z",
+      "sizeBytes": 45259,
+      "uncompressedBytes": 664704,
+      "sha256": "16b4d1f62535e2046340aa5e032260d3d52076a6306276049b12e291be35f1cc",
       "minAppSchemaVersion": 1,
       "regionCode": "RI",
       "regionName": "Rhode Island",
       "regionAliases": [
         "Rhode Island"
       ],
-      "assetName": "countries/us/ri/us-ri-v1.0.0.json.gz"
+      "assetName": "countries/us/ri/us-ri-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2597,
-      "generatedAt": "2026-10-15T19:35:24.828Z",
-      "sizeBytes": 98536,
-      "uncompressedBytes": 1546577,
-      "sha256": "62ada23ae722795da1fa4802ecd97c9d8544b693eb3b4efaac82782b535cb7de",
+      "recordCount": 2600,
+      "generatedAt": "2026-10-28T21:00:31.273Z",
+      "sizeBytes": 98799,
+      "uncompressedBytes": 1548341,
+      "sha256": "e9590da8c7598cd387866c13ed895ce0d7548102dcc2dca527916a136522ca9d",
       "minAppSchemaVersion": 1,
       "regionCode": "SC",
       "regionName": "South Carolina",
       "regionAliases": [
         "South Carolina"
       ],
-      "assetName": "countries/us/sc/us-sc-v1.0.0.json.gz"
+      "assetName": "countries/us/sc/us-sc-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 1311,
-      "generatedAt": "2026-10-15T19:35:39.676Z",
-      "sizeBytes": 49634,
-      "uncompressedBytes": 765243,
-      "sha256": "695aebbfc1544153bba2ecdc652aead3796d6ad05dcc9ca4e62855dbb7de80f2",
+      "recordCount": 1313,
+      "generatedAt": "2026-10-28T21:01:52.814Z",
+      "sizeBytes": 49917,
+      "uncompressedBytes": 767445,
+      "sha256": "fe7837d1c4c8dfa45c5c89bdcf24b3e5187c58b88bdb9aa114a7971877cc0d1a",
       "minAppSchemaVersion": 1,
       "regionCode": "SD",
       "regionName": "South Dakota",
       "regionAliases": [
         "South Dakota"
       ],
-      "assetName": "countries/us/sd/us-sd-v1.0.0.json.gz"
+      "assetName": "countries/us/sd/us-sd-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 4990,
-      "generatedAt": "2026-10-15T19:36:05.300Z",
-      "sizeBytes": 187089,
-      "uncompressedBytes": 3051986,
-      "sha256": "170fabb8827b8dc9ac533205437dd958a17f275aec718a648ccef23473dbee41",
+      "recordCount": 5001,
+      "generatedAt": "2026-10-28T21:01:53.249Z",
+      "sizeBytes": 187721,
+      "uncompressedBytes": 3058596,
+      "sha256": "c5f8628d8f58da6bb21d769e573de8a411f7a27b4fca1a6f1ca917af2a0054ec",
       "minAppSchemaVersion": 1,
       "regionCode": "TN",
       "regionName": "Tennessee",
       "regionAliases": [
         "Tennessee"
       ],
-      "assetName": "countries/us/tn/us-tn-v1.0.0.json.gz"
+      "assetName": "countries/us/tn/us-tn-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 9754,
-      "generatedAt": "2026-10-15T19:36:33.532Z",
-      "sizeBytes": 345244,
-      "uncompressedBytes": 5328616,
-      "sha256": "4c9b7ad541184cf1b3b60ae2f053207717d18017d7225d165723d17ad2192aad",
+      "recordCount": 9779,
+      "generatedAt": "2026-10-28T21:02:06.385Z",
+      "sizeBytes": 346414,
+      "uncompressedBytes": 5341708,
+      "sha256": "83a5c54dcbb489ddcc83b482ce3c57e1a13a95070ab534cdd7886863f6755ff2",
       "minAppSchemaVersion": 1,
       "regionCode": "TX",
       "regionName": "Texas",
       "regionAliases": [
         "Texas"
       ],
-      "assetName": "countries/us/tx/us-tx-v1.0.0.json.gz"
+      "assetName": "countries/us/tx/us-tx-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 6026,
-      "generatedAt": "2026-10-15T19:36:58.780Z",
+      "generatedAt": "2026-10-28T21:02:20.612Z",
       "sizeBytes": 222212,
-      "uncompressedBytes": 3750049,
-      "sha256": "93de8f0fa735a9f74ddeaa2104f55e0b2dfbe44e9c1cbe7a262db06d87a78e79",
+      "uncompressedBytes": 3750041,
+      "sha256": "13271ea8892de52157bbd599d39f3875b7130b008a14cbbbb294c2718cbdd2e2",
       "minAppSchemaVersion": 1,
       "regionCode": "UT",
       "regionName": "Utah",
       "regionAliases": [
         "Utah"
       ],
-      "assetName": "countries/us/ut/us-ut-v1.0.0.json.gz"
+      "assetName": "countries/us/ut/us-ut-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5507,
-      "generatedAt": "2026-10-15T19:37:40.623Z",
-      "sizeBytes": 222529,
-      "uncompressedBytes": 3386634,
-      "sha256": "6395fdccd122f7c6f44bae5b071e566d952816792d1e7fb5925e938db486a750",
+      "recordCount": 5511,
+      "generatedAt": "2026-10-28T21:03:44.635Z",
+      "sizeBytes": 223070,
+      "uncompressedBytes": 3390812,
+      "sha256": "1208b8f43923bb4b515176a887588932973d982dc66cc45299780033d5e6c835",
       "minAppSchemaVersion": 1,
       "regionCode": "VA",
       "regionName": "Virginia",
       "regionAliases": [
         "Virginia"
       ],
-      "assetName": "countries/us/va/us-va-v1.0.0.json.gz"
+      "assetName": "countries/us/va/us-va-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 2475,
-      "generatedAt": "2026-10-15T19:37:16.514Z",
-      "sizeBytes": 99919,
-      "uncompressedBytes": 1594493,
-      "sha256": "7e0aedeebc292dd14614475357b32a2b71d0c28479684d035e87a8853a693f8e",
+      "recordCount": 2476,
+      "generatedAt": "2026-10-28T21:04:24.114Z",
+      "sizeBytes": 100037,
+      "uncompressedBytes": 1595167,
+      "sha256": "c3d7579ac712fc138905e11c29f01ed49487288aacc7a4bc816ac96b11f3a551",
       "minAppSchemaVersion": 1,
       "regionCode": "VT",
       "regionName": "Vermont",
       "regionAliases": [
         "Vermont"
       ],
-      "assetName": "countries/us/vt/us-vt-v1.0.0.json.gz"
+      "assetName": "countries/us/vt/us-vt-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 10331,
-      "generatedAt": "2026-10-15T19:38:34.192Z",
-      "sizeBytes": 462421,
-      "uncompressedBytes": 7511232,
-      "sha256": "064329c0ce23df13d1bbbf711c2c9d807f943a6339c4539312b5040c10d01297",
+      "recordCount": 10339,
+      "generatedAt": "2026-10-28T21:04:06.797Z",
+      "sizeBytes": 462880,
+      "uncompressedBytes": 7520480,
+      "sha256": "a0c67ed11174cda876b8c6fbeae88fa91ec7dbcee732cadf717c6f66517bde9e",
       "minAppSchemaVersion": 1,
       "regionCode": "WA",
       "regionName": "Washington",
       "regionAliases": [
         "Washington"
       ],
-      "assetName": "countries/us/wa/us-wa-v1.0.0.json.gz"
+      "assetName": "countries/us/wa/us-wa-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 8003,
-      "generatedAt": "2026-10-15T19:39:40.428Z",
-      "sizeBytes": 320870,
-      "uncompressedBytes": 5059964,
-      "sha256": "4b302b64b9910942b11d50a13ebac1990b1f601925c6e0309c38a5dd49b7d4e4",
+      "recordCount": 8013,
+      "generatedAt": "2026-10-28T21:05:57.232Z",
+      "sizeBytes": 321792,
+      "uncompressedBytes": 5067403,
+      "sha256": "bd41c95f21e1766f468dfcd85a2f970e5bef495f7baf9bc79999f8cfcb397efa",
       "minAppSchemaVersion": 1,
       "regionCode": "WI",
       "regionName": "Wisconsin",
       "regionAliases": [
         "Wisconsin"
       ],
-      "assetName": "countries/us/wi/us-wi-v1.0.0.json.gz"
+      "assetName": "countries/us/wi/us-wi-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
       "recordCount": 2075,
-      "generatedAt": "2026-10-15T19:38:57.102Z",
-      "sizeBytes": 88425,
-      "uncompressedBytes": 1397275,
-      "sha256": "eba6e438f929cbbee1d13a01a675f4cc95e751c0f80f5356b43d89ad9fca4b7c",
+      "generatedAt": "2026-10-28T21:05:54.311Z",
+      "sizeBytes": 88421,
+      "uncompressedBytes": 1397252,
+      "sha256": "b2ad798e7699172212657a20982aaf05ba4859d3989563d5fa63bc19567cd00b",
       "minAppSchemaVersion": 1,
       "regionCode": "WV",
       "regionName": "West Virginia",
       "regionAliases": [
         "West Virginia"
       ],
-      "assetName": "countries/us/wv/us-wv-v1.0.0.json.gz"
+      "assetName": "countries/us/wv/us-wv-v1.0.1.json.gz"
     },
     {
       "countryCode": "US",
-      "datasetVersion": "1.0.0",
+      "datasetVersion": "1.0.1",
       "schemaVersion": 1,
-      "recordCount": 5097,
-      "generatedAt": "2026-10-15T19:39:48.359Z",
-      "sizeBytes": 189979,
-      "uncompressedBytes": 3374995,
-      "sha256": "c0f103e1542dde7efa63a64aa8ff8e00551f92b3ac122bc965fda893e5b254d4",
+      "recordCount": 5102,
+      "generatedAt": "2026-10-28T21:06:38.891Z",
+      "sizeBytes": 190491,
+      "uncompressedBytes": 3377897,
+      "sha256": "2994eb773a13b17a5886c80d9d43c2607183abef64c166cb2f42b2bc9072af4a",
       "minAppSchemaVersion": 1,
       "regionCode": "WY",
       "regionName": "Wyoming",
       "regionAliases": [
         "Wyoming"
       ],
-      "assetName": "countries/us/wy/us-wy-v1.0.0.json.gz"
+      "assetName": "countries/us/wy/us-wy-v1.0.1.json.gz"
     }
   ]
 }

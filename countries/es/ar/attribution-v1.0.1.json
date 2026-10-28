@@ -1,0 +1,26 @@
+{
+  "osm": {
+    "url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf",
+    "sha256": "58350a749aad1024c6e5e4e13d5b5655b6de24c685bbe16cf087b97629fe797c",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "boundaries": {
+    "boundaryID": "ESP-ADM1-25490228",
+    "boundaryLicense": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "licenseDetail": "CC-BY 4.0",
+    "licenseSource": "centrodedescargas.cnig.es/CentroDescargas/index.jsp#",
+    "boundarySource": "Instituto de Geografico Nacional",
+    "buildDate": "Dec 12, 2023",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ESP/ADM1/geoBoundaries-ESP-ADM1_simplified.geojson",
+    "api": "https://www.geoboundaries.org/api/current/gbOpen/ESP/ADM1/",
+    "sha256": "b61a1bf661b90883763f633f5e9dbc27e7356309e42cbe56b60d2ceab5112f63",
+    "flightAuthorization": false
+  },
+  "usage": {
+    "scenicOnly": true,
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}

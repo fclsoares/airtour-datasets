@@ -1,0 +1,26 @@
+{
+  "osm": {
+    "url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf",
+    "sha256": "55cea07ea653dc4aa67a10b30839a978a8387ce4e67717051a42a3a75eff3638",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "licenseUrl": "https://www.openstreetmap.org/copyright"
+  },
+  "boundaries": {
+    "boundaryID": "ITA-ADM1-72843720",
+    "boundaryLicense": "Creative Commons Attribution 3.0 License",
+    "licenseDetail": "nan",
+    "licenseSource": "www.istat.it/it/note-legali",
+    "boundarySource": "ISTAT, National Institute of Statistics",
+    "buildDate": "Dec 12, 2023",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ITA/ADM1/geoBoundaries-ITA-ADM1_simplified.geojson",
+    "api": "https://www.geoboundaries.org/api/current/gbOpen/ITA/ADM1/",
+    "sha256": "ff733cbd49b16f260360cd848361abf736de313e75c00cbe9ffad451a311d606",
+    "flightAuthorization": false
+  },
+  "usage": {
+    "scenicOnly": true,
+    "officialAirspaceVerification": false,
+    "flightAuthorization": false
+  }
+}
